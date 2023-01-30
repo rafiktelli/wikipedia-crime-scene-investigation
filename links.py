@@ -140,8 +140,6 @@ for link in all_links:
 
 with open("data1.json", "w") as file:
     json.dump(pages_data, file)
-        
-#test
 
 
     

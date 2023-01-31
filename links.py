@@ -1,6 +1,32 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+all_american_states = ["alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware", "florida",
+          "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine",
+          "maryland", "massachusetts", "michigan", "minnesota", "mississippi", "missouri", "montana", "nebraska",
+          "nevada", "new hampshire", "new jersey", "new mexico", "new york", "north carolina", "north dakota", "ohio",
+          "oklahoma", "oregon", "pennsylvania", "rhode island", "south carolina", "south dakota", "tennessee", "texas",
+          "utah", "vermont", "virginia", "washington", "west virginia", "wisconsin", "wyoming"]
+
+
+#--------------------------------------------------------------------------------------
+def get_state(text):
+    doc = nlp(text)
+    for ent in doc.ents:
+        if ent.label_ == "GPE" and ent.text.lower() in all_american_states:
+            return ent.text
+    return None
+
+#--------------------------------------------------------------------------------------
+def get_county(text):
+    doc = nlp(text)
+    for ent in doc.ents:
+        if ent.label_ == "GPE" and ent.text.lower() not in all_american_states and not (any(string in ent.text.lower() for string in {"united states", "us", "usa", "u.s.", "u.s.a" })) :
+            return ent.text
+    return None
 
 
 #--------------------------------------------------------------------------------------
@@ -13,9 +39,20 @@ def get_string(text):
 #--------------------------------------------------------------------------------------
 
 
+input_val = input("State : ")
+
+with open('state_cat.json', 'r') as file:
+    states = json.load(file)
+
+for state in states:
+    if state['state'] == input_val:
+        my_url = state['lien']
+        file_name = state['state_name']
+        print("le lien est : "+my_url)
+        break
 
 
-url = "https://en.wikipedia.org/wiki/Category:Crimes_in_Utah"
+url = my_url
 page = requests.get(url)
 soup = BeautifulSoup(page.content, "html.parser")
 div = soup.find("div", {"id": "mw-subcategories"})
@@ -132,14 +169,26 @@ for link in all_links:
                         else:
                             if(x.text=="Location"):
                                 location = y.text
-    for i in range(1,2):
+    for i in range(1,3):
+        if(len(soup('p'))>i):
             paragraph = paragraph + soup('p')[i].text
-    pages_data.append({"link": link, "title": title, "date": date, "location": location})
+    
+    if(get_state(location)!= None):
+        the_state = get_state(location)
+        the_county = get_county(location)
+    else:
+        the_state = get_state(paragraph)
+        the_county = get_county(paragraph)
+    
+    if(the_state == None): the_state=""
+    if(the_county == None): the_county=""
+
+    pages_data.append({"link": link, "title": title, "date": date, "location": location, "state": the_state, "county": the_county, "paragraph": paragraph})
 
 #print(pages_data)
 
-with open("data1.json", "w") as file:
-    json.dump(pages_data, file)
+with open("states_data/"+file_name+".json", "w") as file:
+    json.dump(pages_data, file, indent=4)
 
 
     

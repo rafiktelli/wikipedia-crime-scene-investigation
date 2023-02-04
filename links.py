@@ -19,7 +19,6 @@ nlp = spacy.load("en_core_web_lg")
 
 loc = Nominatim(user_agent="GetLoc")
 
-start_time = time.time()
 
 all_american_states = ["alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware", "florida",
           "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine",
@@ -43,7 +42,7 @@ def get_state(text):
     for ent in doc.ents:
         if ent.label_ == "GPE" and ent.text.lower() == myState.lower():
             return ent.text
-    return None
+    return ""
 
 def get_place(text):
     doc = nlp(text)
@@ -53,7 +52,7 @@ def get_place(text):
             if(ent.text == "Marcum"): print("HHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII")
             if(a != "" ):
                 return ent.text
-    return None
+    return ""
 
 def get_string(text):
     words = text.split()
@@ -149,11 +148,11 @@ def get_crime_type(soup, title):
     return found_list
 
 def extract_year_symentic_phrase(text):
-    keywords = "massacre|kill|murder|shoot|shot|raping|rape|riot|kidnap|steal|stole|thieft|theft|loot|robber|torture|lynch|battery|terror|arson|crim|arrest|guilty|dead|kidnapp|disappear|die"
-    print("MARACONDAAAAA")
+    keywords = "massacre|kill|murder|shoot|shot|raping|rape|riot|kidnap|steal|stole|thief|theft|loot|robber|torture|lynch|battery|terror|arson|crim|arrest|guilty|dead|kidnapp|disappear|die"
     doc = nlp(text)
     for tok in doc:
         phrase =[]
+        result = []
         string = ""
         #print(tok.text)
         if not (tok.like_num and re.search(r"(?<!u)(18|19|20)\d{2}", tok.text) ):
@@ -171,10 +170,41 @@ def extract_year_symentic_phrase(text):
                 string = " ".join(f.text for f in phrase)
                 print(string)
                 if re.search(keywords, string):
-                    print(tok.text)
-                    return tok.text
+                    match = re.search(keywords, string)
+                    c_type = match.group()
+                    c_name = which_crime_in_sem_year(c_type)
+                    result.append("new "+tok.text)
+                    result.append("new "+ c_name)
+                    print("new "+ c_name)
+                    return result
 
-    return ""
+    return ["",""]
+
+def which_crime_in_sem_year(word):
+    if word in {"kill", "murder", "dead", "lynch", "crim", "arrest", "die", "guilty"}:
+        return "murder"
+    elif word in { "shoot", "shot", "massacre"}:
+        return "shooting"
+    elif word in {"raping", "rap", "sexual"}:
+        return "rape"
+    elif word in {"steal", "stole", "thief", "theft", "robber"}:
+        return "robbery"
+    elif word in {"loot"}:
+        return "looting"
+    elif word in {"riot"}:
+        return "riots"
+    elif word in {"arson"}:
+        return "arson"
+    elif word in {"kidnap", "disappear"}:
+        return "kidnapping"
+    elif word in {"torture"}:
+        return "torture"
+    elif word in {"terror"}:
+        return "terrorism"
+    elif word in {"battery"}:
+        return "battery"
+    else:
+        return ""
 
 
 
@@ -184,6 +214,8 @@ all_links = []
 
 #get the state to generate the crime articles
 myState = input("State : ")
+start_time = time.time()
+print(start_time)
 #get state category:crimes link and file_name
 with open('state_cat.json', 'r') as file:
     states = json.load(file)
@@ -259,49 +291,56 @@ for link in all_links:
                                 if(x.text=="Died"):
                                     died = y.text
     
-    paragraph = get_paragraph(soup)
-    
+    #When get all article info, parse the variables 
+    paragraph = get_paragraph(soup) 
+    sem_crime = ""
+    #year extraction
     if date == "": date=died
     date = re.sub(r'\)(\S)', r') \1', date)
     year = extract_year(date+' '+title+' '+link)
-
     if year == "":
-        year = extract_year_symentic_phrase(paragraph)
+        year = extract_year_symentic_phrase(paragraph)[0]
+        sem_crime = extract_year_symentic_phrase(paragraph)[1]
+        print(year)
 
-
+    #county extraction 
     full_text = title + " " + location + " " + date + " " + paragraph
-    if(get_state(location)!= None):
-        the_state = get_state(location)
-        place = get_place(full_text)
-    else:
-        the_state = get_state(paragraph)
-        place = get_place(full_text)
-    
-    if(the_state == None): the_state=""
-    if(place == None): place=""
-
-
+    the_state = get_state(full_text)
+    place = get_place(full_text)
+    if(the_state == ""): the_state=myState
     g_county = get_couty_from_geo(myState, place)
     
+    #crime type extraction
     crime_types = get_crime_type(soup, title + paragraph) 
+    if((not len(crime_types)) and sem_crime != "" ):
+        crime_types.add(sem_crime)
+    else: print(crime_types)
 
-
+    record={"link": link, 
+            "title": title, 
+            "date": date, 
+            "year": year,
+            "location": location, 
+            "state": the_state, 
+            "place": place,
+            "county": g_county, 
+            "paragraph": paragraph, 
+            "type": tuple(crime_types)}
     
-    pages_data.append({"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "place": place, "county": g_county, "paragraph": paragraph, "type": tuple(crime_types)})
-    #pages_data.append({"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "place": place, "county": g_county, "paragraph": paragraph, "type": crime_types})
-
+    pages_data.append(record)
+    
     
 
-
+#Remove duplicates
 unique_records = set(tuple(record.items()) for record in pages_data)
-urs = [dict(record) for record in unique_records]
-    
+urs = [dict(record) for record in unique_records]    
 last_data = {f"{i}": record for i, record in enumerate(urs)}
-#print(pages_data)
 
+#count unique records
 countUnique = set(item['link'] for item in pages_data)
 print(len(countUnique))
 
+#Export the json file
 with open("states_data/"+file_name+".json", "w") as file:
     json.dump(last_data, file, indent=4)
 

@@ -4,6 +4,8 @@ from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import json
 import spacy
+import time
+from geopy.geocoders import Nominatim
 import re
 
 session = requests.Session()
@@ -13,7 +15,12 @@ session.mount('http://', adapter)
 session.mount('https://', adapter)
 
 
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_lg")
+
+loc = Nominatim(user_agent="GetLoc")
+
+start_time = time.time()
+
 all_american_states = ["alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware", "florida",
           "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine",
           "maryland", "massachusetts", "michigan", "minnesota", "mississippi", "missouri", "montana", "nebraska",
@@ -34,15 +41,18 @@ def get_paragraph(soup):
 def get_state(text):
     doc = nlp(text)
     for ent in doc.ents:
-        if ent.label_ == "GPE" and ent.text.lower() in all_american_states:
+        if ent.label_ == "GPE" and ent.text.lower() == myState.lower():
             return ent.text
     return None
 
-def get_county(text):
+def get_place(text):
     doc = nlp(text)
     for ent in doc.ents:
         if (ent.label_ == "GPE" and (ent.text.lower() not in all_american_states) and not (any(string in ent.text.lower() for string in {"united states", "us", "usa", "u.s.", "u.s.a" }))) :
-            return ent.text
+            a = get_couty_from_geo(myState, ent.text)
+            if(ent.text == "Marcum"): print("HHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII")
+            if(a != "" ):
+                return ent.text
     return None
 
 def get_string(text):
@@ -77,6 +87,26 @@ def get_category_pages(url):
     
     return dic
 
+def get_main_categories(url):
+    page = session.get(url)
+    soup = BeautifulSoup(page.content, "html.parser")
+    div = soup.find("div", {"id": "mw-subcategories"})
+    links = [link.get("href") for link in div.find_all("a")]
+    spans = div.find_all('span', class_=lambda x: x not in {"CategoryTreeBullet", "CategoryTreeToggle", "CategoryTreeEmptyBullet"} )
+    span_names = [span.text for span in spans]
+    link_names = [link.text for link in div.find_all("span")]
+    dic = []
+    for index, aLink in enumerate(links):
+        if 'C' in span_names[index]:
+            final = False
+        else : 
+            final = True
+        substring_set={"Category:Crimes", "Category:Violence"}
+        if( any(substring in aLink for substring in substring_set) ):
+            dic.append({"link": aLink, "span": span_names[index], "final": final})
+    
+    return dic
+
 def get_final_page_links(url):
     page = session.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -87,6 +117,66 @@ def get_final_page_links(url):
     else: 
         links=[]
     return links
+
+def get_couty_from_geo(state, town):
+    try:
+        getLoc = loc.geocode(town+', '+state, addressdetails=True)
+    except Exception:
+        return ""
+    if getLoc != None:
+        if (getLoc.raw['address'].get("county") == None) or (getLoc.raw['address'].get("state") == None) :
+            return ""
+        else:
+            if getLoc.raw['address'].get("state").lower() == myState.lower():
+                return getLoc.raw['address']['county']
+            else: 
+                return ""
+    else: 
+        return ""
+
+def get_crime_type(soup, title):
+    found_list={}
+    keywords=["killing", "murder", "mass murder", "rape", "riot", "arson", "assault", "homocide", "kidnapping", "kidnapped", "hijacking", "hijacker", 
+            "terrorism", "terrorist", "robbery", "robber", "robberies", "torture", "battery", "lynching", "shooting", "mass shooting",
+             "sex crime", "burglary", "theft", "thief", "looting", "looter" ]
+    div = soup.find("div", {"id": "mw-normal-catlinks"})
+    links = div.find_all("li")
+    first_links = links[0:7] if len(links) >= 4 else links
+    titles = [link.text for link in first_links]
+    phrase = " ".join(titles)
+    phrase = phrase + " " +title
+    found_list = {item for item in keywords if item in phrase.lower()}
+    return found_list
+
+def extract_year_symentic_phrase(text):
+    keywords = "massacre|kill|murder|shoot|shot|raping|rape|riot|kidnap|steal|stole|thieft|theft|loot|robber|torture|lynch|battery|terror|arson|crim|arrest|guilty|dead|kidnapp|disappear|die"
+    print("MARACONDAAAAA")
+    doc = nlp(text)
+    for tok in doc:
+        phrase =[]
+        string = ""
+        #print(tok.text)
+        if not (tok.like_num and re.search(r"(?<!u)(18|19|20)\d{2}", tok.text) ):
+            continue
+        for i in tok.ancestors:
+            if i.pos_ == "VERB":
+                phrase.append(i)
+                phrase.extend([j for j in i.children if j.dep_ == "dobj" and tok in i.subtree ])
+                
+                for k in phrase:
+                    for l in k.children:
+                        if l.pos_ in {"NOUN", "VERB"}:
+                            phrase.append(l)
+                
+                string = " ".join(f.text for f in phrase)
+                print(string)
+                if re.search(keywords, string):
+                    print(tok.text)
+                    return tok.text
+
+    return ""
+
+
 
 
 all_links = []
@@ -104,9 +194,9 @@ for state in states:
         break
 url = my_url
 #for the main page, get all the pages that contain articles 
-dic = get_category_pages(url)
-a_links = get_final_page_links(url)
-all_links.extend(a_links)
+dic = get_main_categories(url)
+#a_links = get_final_page_links(url)
+#all_links.extend(a_links)
 
 #divide the extracted pages to Final Pages (contain articles) 
 #and Loop Pages (contain list of pages)
@@ -171,25 +261,49 @@ for link in all_links:
     
     paragraph = get_paragraph(soup)
     
-    
+    if date == "": date=died
+    date = re.sub(r'\)(\S)', r') \1', date)
+    year = extract_year(date+' '+title+' '+link)
+
+    if year == "":
+        year = extract_year_symentic_phrase(paragraph)
+
+
+    full_text = title + " " + location + " " + date + " " + paragraph
     if(get_state(location)!= None):
         the_state = get_state(location)
-        the_county = get_county(location)
+        place = get_place(full_text)
     else:
         the_state = get_state(paragraph)
-        the_county = get_county(paragraph)
+        place = get_place(full_text)
     
     if(the_state == None): the_state=""
-    if(the_county == None): the_county=""
+    if(place == None): place=""
 
-    if date == "": date=died
-    year = extract_year(date)
-    pages_data.append({"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "county": the_county, "paragraph": paragraph})
 
-#print(pages_data)
-
-with open("states_data/"+file_name+".json", "w") as file:
-    json.dump(pages_data, file, indent=4)
+    g_county = get_couty_from_geo(myState, place)
+    
+    crime_types = get_crime_type(soup, title + paragraph) 
 
 
     
+    pages_data.append({"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "place": place, "county": g_county, "paragraph": paragraph, "type": tuple(crime_types)})
+    #pages_data.append({"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "place": place, "county": g_county, "paragraph": paragraph, "type": crime_types})
+
+    
+
+
+unique_records = set(tuple(record.items()) for record in pages_data)
+urs = [dict(record) for record in unique_records]
+    
+last_data = {f"{i}": record for i, record in enumerate(urs)}
+#print(pages_data)
+
+countUnique = set(item['link'] for item in pages_data)
+print(len(countUnique))
+
+with open("states_data/"+file_name+".json", "w") as file:
+    json.dump(last_data, file, indent=4)
+
+overall_time = time.time() - start_time
+print(overall_time)

@@ -7,6 +7,7 @@ import spacy
 import time
 from geopy.geocoders import Nominatim
 import re
+from collections import Counter
 
 session = requests.Session()
 retry = Retry(connect=3, backoff_factor=0.5)
@@ -30,13 +31,11 @@ all_american_states = ["alabama", "alaska", "arizona", "arkansas", "california",
 
 def get_paragraph(soup):
     p = ""
-    for i in range(1,4):
+    for i in range(1,10):
         if(len(soup('p'))>i):
             p = p + soup('p')[i].text
     return p
-
-    
-
+  
 def get_state(text):
     doc = nlp(text)
     for ent in doc.ents:
@@ -49,7 +48,6 @@ def get_place(text):
     for ent in doc.ents:
         if (ent.label_ == "GPE" and (ent.text.lower() not in all_american_states) and not (any(string in ent.text.lower() for string in {"united states", "us", "usa", "u.s.", "u.s.a" }))) :
             a = get_couty_from_geo(myState, ent.text)
-            if(ent.text == "Marcum"): print("HHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII")
             if(a != "" ):
                 return ent.text
     return ""
@@ -72,6 +70,7 @@ def get_category_pages(url):
     soup = BeautifulSoup(page.content, "html.parser")
     div = soup.find("div", {"id": "mw-subcategories"})
     links = [link.get("href") for link in div.find_all("a")]
+    links = [x for x in links if "September_11" not in x]
     spans = div.find_all('span', class_=lambda x: x not in {"CategoryTreeBullet", "CategoryTreeToggle", "CategoryTreeEmptyBullet"} )
     span_names = [span.text for span in spans]
     link_names = [link.text for link in div.find_all("span")]
@@ -135,32 +134,38 @@ def get_couty_from_geo(state, town):
 
 def get_crime_type(soup, title):
     found_list={}
-    keywords=["killing", "murder", "mass murder", "rape", "riot", "arson", "assault", "homocide", "kidnapping", "kidnapped", "hijacking", "hijacker", 
-            "terrorism", "terrorist", "robbery", "robber", "robberies", "torture", "battery", "lynching", "shooting", "mass shooting",
-             "sex crime", "burglary", "theft", "thief", "looting", "looter" ]
+    
+    keywords = [    "killing", "murder", "homicide", "kill", "dead", "lynch", "lynching",    "shoot", "firearm", "shooting", "shot",    "mass shooting", "massacre", "mass murder",    "sex crime", "sex abuse", "sexual ", "rape", "raping",    "robber", "robberies", "robbery", "thief", "theft", "burglary", "looting", "looter", "steal", "stole", "loot",    "terrorism", "terrorist", "terror",    "kidnapping", "kidnapped", "kidnap", "disappear",    "hijacking", "hijacker",    "riot",    "arson", "vandalism",    "assault", "battery", "torture"]
+
+
+
+
     div = soup.find("div", {"id": "mw-normal-catlinks"})
     links = div.find_all("li")
-    first_links = links[0:7] if len(links) >= 4 else links
+    first_links = links[0:7] if len(links) >= 8 else links
     titles = [link.text for link in first_links]
     phrase = " ".join(titles)
     phrase = phrase + " " +title
-    found_list = {item for item in keywords if item in phrase.lower()}
+    found_list = {crime_classifier(item) for item in keywords if item in phrase.lower() and crime_classifier(item) != ""}
     return found_list
 
+
+
 def extract_year_symentic_phrase(text):
-    keywords = "massacre|kill|murder|shoot|shot|raping|rape|riot|kidnap|steal|stole|thief|theft|loot|robber|torture|lynch|battery|terror|arson|crim|arrest|guilty|dead|kidnapp|disappear|die"
+
+    keywords = "raping|torture|murder|lynch|thief|looter|terror|kidnapping|riot|vandalism|kill|lynching|shoot|killing|loot|steal|dead|arrest|hijacking|kidnap|sex crime|battery|assault|hijacker|burglary|stole|rape|theft|homicide|mass murder|mass shooting|robberies|arson|kidnapp|massacre|looting|die|firearm|guilty|disappear|robber|crim|kidnapped|terrorism|shot|stab|sexual|sex abuse"
+
     doc = nlp(text)
     for tok in doc:
         phrase =[]
         result = []
         string = ""
-        #print(tok.text)
         if not (tok.like_num and re.search(r"(?<!u)(18|19|20)\d{2}", tok.text) ):
             continue
         for i in tok.ancestors:
             if i.pos_ == "VERB":
                 phrase.append(i)
-                phrase.extend([j for j in i.children if j.dep_ == "dobj" and tok in i.subtree ])
+                phrase.extend([j for j in i.children if tok in i.subtree ])
                 
                 for k in phrase:
                     for l in k.children:
@@ -168,17 +173,47 @@ def extract_year_symentic_phrase(text):
                             phrase.append(l)
                 
                 string = " ".join(f.text for f in phrase)
-                print(string)
                 if re.search(keywords, string):
                     match = re.search(keywords, string)
                     c_type = match.group()
-                    c_name = which_crime_in_sem_year(c_type)
-                    result.append("new "+tok.text)
-                    result.append("new "+ c_name)
-                    print("new "+ c_name)
+                    c_name = crime_classifier(c_type)
+                    result.append(tok.text)
+                    result.append(c_name)
+                    #print("new "+ c_name)
                     return result
 
     return ["",""]
+
+
+
+
+def crime_classifier(word):
+    word = word.lower()
+    if word in {"killing", "murder", "homicide", "kill", "dead", "lynch", "lynching", "arrest", "die", "criminal", "guilty", "stab", "shot"}:
+        return "murder"
+    elif word in {"shoot", "firearm", "shooting"}:
+        return "shooting"
+    elif word in {"mass shooting", "massacre", "mass murder"}:
+        return "mass murder"
+    elif word in {"sex crime", "sex abuse", "sexual", "rape", "raping"}:
+        return "sexual assault"
+    elif word in {"robber", "robberies", "robbery", "thief", "theft", "burglary", "looting", "looter", "steal", "stole", "loot"}:
+        return "robbery"
+    elif word in {"terrorism", "terrorist", "terror"}:
+        return "terrorism"
+    elif word in {"kidnapping", "kidnapped", "kidnap", "disappear"}:
+        return "kidnapping"
+    elif word in {"hijacking", "hijacker"}:
+        return "hijacking"
+    elif word in {"riot"}:
+        return "riot"
+    elif word in {"arson", "vandalism"}:
+        return "arson"
+    elif word in {"assault", "battery", "torture"}:
+        return "assault"
+    else:
+        return ""
+
 
 def which_crime_in_sem_year(word):
     if word in {"kill", "murder", "dead", "lynch", "crim", "arrest", "die", "guilty"}:
@@ -206,6 +241,14 @@ def which_crime_in_sem_year(word):
     else:
         return ""
 
+def get_most_repeated_year(paragraph):
+    pattern = re.compile(r'\b(?:(?:18|19|20)\d{2})\b')
+    years = re.findall(pattern, paragraph)
+    year_count = Counter(years)
+    if(len(year_count)>0):
+        return year_count.most_common(1)[0][0]
+    return ""
+
 
 
 
@@ -215,7 +258,6 @@ all_links = []
 #get the state to generate the crime articles
 myState = input("State : ")
 start_time = time.time()
-print(start_time)
 #get state category:crimes link and file_name
 with open('state_cat.json', 'r') as file:
     states = json.load(file)
@@ -263,11 +305,15 @@ for element in final_links_pages:
     links = get_final_page_links(url)
     all_links.extend(links)
 # ------------------------------------------------ EXTRACT PAGE INFO --------------------
+
+print("THE END OF LINK EXTRACTION")
+all_links = list(set(all_links))
+print(len(all_links))
+
 pages_data = []
 
 for link in all_links:
     url = "https://en.wikipedia.org"+link
-    #print(url)
     page = session.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     detail = soup('table', {'class':'infobox'})
@@ -290,6 +336,12 @@ for link in all_links:
                             else:
                                 if(x.text=="Died"):
                                     died = y.text
+                if died == "" and detail is not None:
+                    for z in detail:
+                        if "Died:" in z.text:
+                            died = z.text
+                            print("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")
+                            print(died)
     
     #When get all article info, parse the variables 
     paragraph = get_paragraph(soup) 
@@ -301,7 +353,7 @@ for link in all_links:
     if year == "":
         year = extract_year_symentic_phrase(paragraph)[0]
         sem_crime = extract_year_symentic_phrase(paragraph)[1]
-        print(year)
+    
 
     #county extraction 
     full_text = title + " " + location + " " + date + " " + paragraph
@@ -314,35 +366,32 @@ for link in all_links:
     crime_types = get_crime_type(soup, title + paragraph) 
     if((not len(crime_types)) and sem_crime != "" ):
         crime_types.add(sem_crime)
-    else: print(crime_types)
 
-    record={"link": link, 
-            "title": title, 
-            "date": date, 
-            "year": year,
-            "location": location, 
-            "state": the_state, 
-            "place": place,
-            "county": g_county, 
-            "paragraph": paragraph, 
-            "type": tuple(crime_types)}
+    #record={"link": link, "title": title, "date": date, "year": year, "location": location, "state": the_state, "place": place, "county": g_county, "paragraph": paragraph, "type": tuple(crime_types)}
     
+    record={"link": link, "title": title, "year": year, "state": the_state, "county": g_county, "type": tuple(crime_types)}
+    
+
     pages_data.append(record)
+
+    print(year, ' | ', title,' | ', g_county, ' | ', tuple(crime_types))
     
     
 
 #Remove duplicates
-unique_records = set(tuple(record.items()) for record in pages_data)
-urs = [dict(record) for record in unique_records]    
-last_data = {f"{i}": record for i, record in enumerate(urs)}
 
-#count unique records
-countUnique = set(item['link'] for item in pages_data)
-print(len(countUnique))
+#unique_records = set(tuple(record.items()) for record in pages_data)
+#urs = [dict(record) for record in unique_records]    
+#last_data = {f"{i}": record for i, record in enumerate(urs)}
+print("total number of articles:")
+print(len(pages_data))
+#print("number of unique articles: ")
+#print(len(last_data))
+
 
 #Export the json file
 with open("states_data/"+file_name+".json", "w") as file:
-    json.dump(last_data, file, indent=4)
+    json.dump(pages_data, file, indent=4)
 
 overall_time = time.time() - start_time
 print(overall_time)

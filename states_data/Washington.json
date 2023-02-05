@@ -1,0 +1,1295 @@
+{
+    "0": {
+        "title": "Ric Weiland",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": []
+    },
+    "1": {
+        "title": "Murder of Kris Kime",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "riot",
+            "killing"
+        ]
+    },
+    "2": {
+        "title": "Death of Adre-Anna Jackson",
+        "year": "2006",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "murder"
+        ]
+    },
+    "3": {
+        "title": "George Floyd protests in Washington (state)",
+        "year": "2020",
+        "location": "Washington, U.S.",
+        "county": "Whatcom County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "4": {
+        "title": "North Thurston High School",
+        "year": "",
+        "location": "",
+        "county": "Thurston County",
+        "type": []
+    },
+    "5": {
+        "title": "Seattle riot of 1886",
+        "year": "1886",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "riot"
+        ]
+    },
+    "6": {
+        "title": "Soaked in Bleach",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": []
+    },
+    "7": {
+        "title": "Pierce County substation attack",
+        "year": "2022",
+        "location": "Pierce County, Washington, U.S.",
+        "county": "Pierce County",
+        "type": []
+    },
+    "8": {
+        "title": "Peoples National Bank robbery",
+        "year": "new 1961",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "burglary",
+            "robberies",
+            "robbery",
+            "robber"
+        ]
+    },
+    "9": {
+        "title": "Cascade Mall shooting",
+        "year": "2016",
+        "location": "Cascade Mall, Burlington, Washington, U.S.",
+        "county": "Skagit County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting",
+            "killing"
+        ]
+    },
+    "10": {
+        "title": "2020 deployment of federal forces in the United States",
+        "year": "2020",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "riot",
+            "arson"
+        ]
+    },
+    "11": {
+        "title": "Mineral, Washington murders",
+        "year": "new 1989",
+        "location": "",
+        "county": "Lewis",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "12": {
+        "title": "Murder of Joe Tarricone",
+        "year": "1978",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "murder"
+        ]
+    },
+    "13": {
+        "title": "2008 Skagit County shootings",
+        "year": "2008",
+        "location": "Skagit County, Washington, U.S.\nAlger\nInterstate 5\n",
+        "county": "Skagit County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting"
+        ]
+    },
+    "14": {
+        "title": "Marysville Pilchuck High School shooting",
+        "year": "2014",
+        "location": "Marysville, Washington, U.S.",
+        "county": "Snohomish County",
+        "type": [
+            "mass shooting",
+            "murder",
+            "shooting",
+            "mass murder",
+            "killing"
+        ]
+    },
+    "15": {
+        "title": "Rogers Field (Washington)",
+        "year": "",
+        "location": "Washington State UniversityPullman, Washington, U.S.",
+        "county": "Whitman County",
+        "type": []
+    },
+    "16": {
+        "title": "Murder of Anna Svidersky",
+        "year": "2006",
+        "location": "",
+        "county": "Clark County",
+        "type": [
+            "murder"
+        ]
+    },
+    "17": {
+        "title": "Narcissa Whitman",
+        "year": "1847",
+        "location": "",
+        "county": "Walla Walla County",
+        "type": [
+            "murder"
+        ]
+    },
+    "18": {
+        "title": "Jake Bird",
+        "year": "1949",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "murder"
+        ]
+    },
+    "19": {
+        "title": "Gary Little",
+        "year": "1988",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "burglary"
+        ]
+    },
+    "20": {
+        "title": "Kenneth Bianchi",
+        "year": "",
+        "location": "",
+        "county": "Thurston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "21": {
+        "title": "2012 Seattle cafe shooting spree",
+        "year": "2012",
+        "location": "Seattle, Washington",
+        "county": "King County",
+        "type": [
+            "mass shooting",
+            "murder",
+            "shooting",
+            "mass murder",
+            "killing"
+        ]
+    },
+    "22": {
+        "title": "Anti-Chinese violence in Washington",
+        "year": "new 1885",
+        "location": "",
+        "county": "Klickitat County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "23": {
+        "title": "Yellow Bird (Walla Walla leader)",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "24": {
+        "title": "Seattle Mardi Gras riot",
+        "year": "2001",
+        "location": "Pioneer Square, Seattle, Washington",
+        "county": "King County",
+        "type": [
+            "riot",
+            "assault"
+        ]
+    },
+    "25": {
+        "title": "George Floyd protests in Seattle",
+        "year": "2020",
+        "location": "Seattle, Washington, U.S.",
+        "county": "King County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "26": {
+        "title": "Tacoma riot of 1885",
+        "year": "1885",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "riot"
+        ]
+    },
+    "27": {
+        "title": "Lum You",
+        "year": "1902",
+        "location": "",
+        "county": "Pacific County",
+        "type": [
+            "murder"
+        ]
+    },
+    "28": {
+        "title": "Killing of Antonio Zambrano-Montes",
+        "year": "2015",
+        "location": "Pasco, Washington, U.S.",
+        "county": "Franklin County",
+        "type": [
+            "assault",
+            "shooting",
+            "killing"
+        ]
+    },
+    "29": {
+        "title": "Robert Jay Mathews",
+        "year": "1984",
+        "location": "",
+        "county": "Island County",
+        "type": [
+            "murder",
+            "robber"
+        ]
+    },
+    "30": {
+        "title": "2023 Yakima shooting",
+        "year": "2023",
+        "location": "Yakima, Washington, U.S.",
+        "county": "Yakima County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting"
+        ]
+    },
+    "31": {
+        "title": "Shooting of John T. Williams",
+        "year": "2010",
+        "location": "Boren Avenue and Howell Street, Seattle, Washington, U.S.",
+        "county": "King County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "32": {
+        "title": "Stella Nickell",
+        "year": "",
+        "location": "",
+        "county": "Whitman County",
+        "type": [
+            "murder"
+        ]
+    },
+    "33": {
+        "title": "Randy Roth",
+        "year": "new 1981",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder",
+            "thief",
+            "theft"
+        ]
+    },
+    "34": {
+        "title": "Charles W. Turner (attorney)",
+        "year": "1907",
+        "location": "",
+        "county": "King County",
+        "type": []
+    },
+    "35": {
+        "title": "Wall of Moms",
+        "year": "",
+        "location": "",
+        "county": "Spokane County",
+        "type": []
+    },
+    "36": {
+        "title": "Mia Zapata",
+        "year": "1993",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder"
+        ]
+    },
+    "37": {
+        "title": "Barbara Opel",
+        "year": "new 2001",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "38": {
+        "title": "Uttecht v. Brown",
+        "year": "2010",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "39": {
+        "title": "Thomas Maupin",
+        "year": "new 2001",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "assault",
+            "murder",
+            "theft",
+            "rape",
+            "robberies",
+            "robber"
+        ]
+    },
+    "40": {
+        "title": "David H. Jarvis",
+        "year": "1911",
+        "location": "",
+        "county": "King County",
+        "type": []
+    },
+    "41": {
+        "title": "James Homer Elledge",
+        "year": "new 1974",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "assault",
+            "murder",
+            "kidnapped",
+            "robbery",
+            "robber"
+        ]
+    },
+    "42": {
+        "title": "Parents of Murdered Children Memorial",
+        "year": "",
+        "location": "Oregon City, Oregon, U.S.",
+        "county": "Spokane County",
+        "type": [
+            "murder"
+        ]
+    },
+    "43": {
+        "title": "Jeremy Vargas Sagastegui",
+        "year": "1998",
+        "location": "",
+        "county": "Benton County",
+        "type": [
+            "murder",
+            "shooting",
+            "killing"
+        ]
+    },
+    "44": {
+        "title": "Harvey Collins",
+        "year": "1957",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "murder"
+        ]
+    },
+    "45": {
+        "title": "Leno Prestini",
+        "year": "new 1919",
+        "location": "",
+        "county": "Stevens County",
+        "type": [
+            "new murder"
+        ]
+    },
+    "46": {
+        "title": "Murder of James Sanders",
+        "year": "new 2010",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "assault",
+            "murder",
+            "burglary",
+            "robbery",
+            "robber"
+        ]
+    },
+    "47": {
+        "title": "Mark Prothero",
+        "year": "new 2001",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "new murder"
+        ]
+    },
+    "48": {
+        "title": "Paul Kenneth Keller",
+        "year": "new 2079",
+        "location": "",
+        "county": "Snohomish County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "49": {
+        "title": "Brian Keith Lord",
+        "year": "new 1974",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder",
+            "shooting",
+            "rape"
+        ]
+    },
+    "50": {
+        "title": "Capitol Hill massacre",
+        "year": "2006",
+        "location": "Seattle, Washington, United States",
+        "county": "King County",
+        "type": [
+            "mass shooting",
+            "murder",
+            "shooting",
+            "mass murder",
+            "killing"
+        ]
+    },
+    "51": {
+        "title": "Murder of Laura Law",
+        "year": "",
+        "location": "",
+        "county": "Grays Harbor County",
+        "type": [
+            "murder"
+        ]
+    },
+    "52": {
+        "title": "Isaac N. Ebey",
+        "year": "1857",
+        "location": "",
+        "county": "Island County",
+        "type": []
+    },
+    "53": {
+        "title": "Keith Hunter Jesperson",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "54": {
+        "title": "Edward McMichael",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder"
+        ]
+    },
+    "55": {
+        "title": "Bellevue murders",
+        "year": "1997",
+        "location": "Bellevue, Washington, United States",
+        "county": "King County",
+        "type": [
+            "murder",
+            "mass murder",
+            "killing"
+        ]
+    },
+    "56": {
+        "title": "Gene Viernes",
+        "year": "1981",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder"
+        ]
+    },
+    "57": {
+        "title": "Street of Dreams arson fires",
+        "year": "new 2008",
+        "location": "",
+        "county": "",
+        "type": [
+            "terrorist",
+            "terrorism",
+            "arson"
+        ]
+    },
+    "58": {
+        "title": "Fairchild Air Force Base",
+        "year": "1994",
+        "location": "Fairchild Air Force Base, Washington, U.S.",
+        "county": "Spokane County",
+        "type": []
+    },
+    "59": {
+        "title": "Michael James Snyder",
+        "year": "2018",
+        "location": "",
+        "county": "Yakima County",
+        "type": []
+    },
+    "60": {
+        "title": "Billy Gohl",
+        "year": "1927",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "murder"
+        ]
+    },
+    "61": {
+        "title": "Everett massacre",
+        "year": "1916",
+        "location": "Everett, Washington47\u00b058\u203246\u2033N 122\u00b013\u203213\u2033W\ufeff / \ufeff47.97944\u00b0N 122.22028\u00b0W\ufeff / 47.97944; -122.22028Coordinates: 47\u00b058\u203246\u2033N 122\u00b013\u203213\u2033W\ufeff / \ufeff47.97944\u00b0N 122.22028\u00b0W\ufeff / 47.97944; -122.22028",
+        "county": "",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "62": {
+        "title": "Rod Jones (tight end)",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": []
+    },
+    "63": {
+        "title": "Abuse of Kylie Freeman",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": [
+            "assault"
+        ]
+    },
+    "64": {
+        "title": "Pacific Coast race riots of 1907",
+        "year": "1907",
+        "location": "",
+        "county": "Kitsap County",
+        "type": [
+            "riot"
+        ]
+    },
+    "65": {
+        "title": "Frontier Middle School shooting",
+        "year": "1996",
+        "location": "Moses Lake, Washington, U.S.",
+        "county": "Grant County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting",
+            "killing"
+        ]
+    },
+    "66": {
+        "title": "Gary Grant (serial killer)",
+        "year": "new 1969",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "rape",
+            "killing"
+        ]
+    },
+    "67": {
+        "title": "Michelle Knotek",
+        "year": "",
+        "location": "",
+        "county": "Pacific County",
+        "type": [
+            "murder",
+            "torture"
+        ]
+    },
+    "68": {
+        "title": "Marcus Whitman",
+        "year": "1847",
+        "location": "",
+        "county": "Walla Walla County",
+        "type": [
+            "murder"
+        ]
+    },
+    "69": {
+        "title": "Westley Allan Dodd",
+        "year": "1993",
+        "location": "",
+        "county": "Clark County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "70": {
+        "title": "Robert Lee Yates",
+        "year": "new 1975",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "71": {
+        "title": "Ted Bundy",
+        "year": "1989",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder",
+            "kidnapped",
+            "rape"
+        ]
+    },
+    "72": {
+        "title": "Spokane bombing attempt",
+        "year": "2011",
+        "location": "Spokane, Washington, United States",
+        "county": "Spokane County",
+        "type": [
+            "terrorist"
+        ]
+    },
+    "73": {
+        "title": "Seattle Weather Collective",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "riot"
+        ]
+    },
+    "74": {
+        "title": "Murder of Georgann Hawkins",
+        "year": "new 1955",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "murder"
+        ]
+    },
+    "75": {
+        "title": "Washington and Colorado serial rape cases",
+        "year": "new 2011",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "rape",
+            "assault"
+        ]
+    },
+    "76": {
+        "title": "Murder of Mackenzie Cowell",
+        "year": "2010",
+        "location": "",
+        "county": "Chelan County",
+        "type": [
+            "murder"
+        ]
+    },
+    "77": {
+        "title": "Albert Salmi",
+        "year": "1990",
+        "location": "",
+        "county": "Spokane County",
+        "type": []
+    },
+    "78": {
+        "title": "Robert Hohenberger",
+        "year": "1978",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "kidnapping",
+            "assault",
+            "murder",
+            "kidnapped",
+            "rape",
+            "killing"
+        ]
+    },
+    "79": {
+        "title": "Michael Mantenuto",
+        "year": "2017",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "terrorism"
+        ]
+    },
+    "80": {
+        "title": "Murder of Robert Wykel",
+        "year": "1996",
+        "location": "Yelm, Washington, U.S.",
+        "county": "King County",
+        "type": [
+            "murder",
+            "robbery",
+            "robber"
+        ]
+    },
+    "81": {
+        "title": "Murder of Timothy Brenton",
+        "year": "2009",
+        "location": "Seattle, Washington, U.S.",
+        "county": "King County",
+        "type": [
+            "murder",
+            "shooting",
+            "terrorist"
+        ]
+    },
+    "82": {
+        "title": "George Weyerhaeuser kidnapping",
+        "year": "new 1935",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "kidnapped",
+            "kidnapping"
+        ]
+    },
+    "83": {
+        "title": "William Harvey Thompson",
+        "year": "new 1927",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "new murder"
+        ]
+    },
+    "84": {
+        "title": "Capital punishment in Washington (state)",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": []
+    },
+    "85": {
+        "title": "1999 Seattle WTO protests",
+        "year": "1999",
+        "location": "Seattle, Washington, United States",
+        "county": "King County",
+        "type": [
+            "riot"
+        ]
+    },
+    "86": {
+        "title": "Trang Dai massacre",
+        "year": "new 1998",
+        "location": "",
+        "county": "Pierce County",
+        "type": [
+            "mass shooting",
+            "murder",
+            "shooting",
+            "theft",
+            "killing"
+        ]
+    },
+    "87": {
+        "title": "Edwin T. Pratt",
+        "year": "",
+        "location": "",
+        "county": "Klickitat County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "88": {
+        "title": "Kurt Cobain",
+        "year": "1994",
+        "location": "",
+        "county": "King County",
+        "type": []
+    },
+    "89": {
+        "title": "Gary Ridgway",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder"
+        ]
+    },
+    "90": {
+        "title": "Wesley Everest",
+        "year": "1919",
+        "location": "",
+        "county": "Lewis County",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "91": {
+        "title": "Killings of Aaron Danielson and Michael Reinoehl",
+        "year": "2020",
+        "location": "",
+        "county": "Thurston County",
+        "type": [
+            "shooting",
+            "riot",
+            "killing"
+        ]
+    },
+    "92": {
+        "title": "Tyler Hilinski",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": []
+    },
+    "93": {
+        "title": "Capitol Hill Occupied Protest",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "riot"
+        ]
+    },
+    "94": {
+        "title": "Centralia massacre (Washington)",
+        "year": "1919",
+        "location": "717 N. Washington Ave.",
+        "county": "Lewis County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "95": {
+        "title": "2019 Tacoma attack",
+        "year": "2019",
+        "location": "Northwest Detention Center, Tacoma, Washington, United States",
+        "county": "Pierce County",
+        "type": [
+            "arson"
+        ]
+    },
+    "96": {
+        "title": "Peter Keller (murder suspect)",
+        "year": "new 2012",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "97": {
+        "title": "Evan Hunziker",
+        "year": "1996",
+        "location": "",
+        "county": "Pierce County",
+        "type": []
+    },
+    "98": {
+        "title": "Suicide of Kurt Cobain",
+        "year": "",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder"
+        ]
+    },
+    "99": {
+        "title": "Allen Steckle",
+        "year": "1938",
+        "location": "",
+        "county": "Spokane County",
+        "type": []
+    },
+    "100": {
+        "title": "Murder of the Goldmark family",
+        "year": "new 1985",
+        "location": "",
+        "county": "Benton County",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "101": {
+        "title": "2009 Lakewood shooting",
+        "year": "2009",
+        "location": "Parkland, Washington, U.S.",
+        "county": "Pierce County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting"
+        ]
+    },
+    "102": {
+        "title": "Lewis\u2013Clark Valley murders",
+        "year": "new 1979",
+        "location": "",
+        "county": "Asotin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "103": {
+        "title": "Stanley Bernson",
+        "year": "",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "104": {
+        "title": "Murders of Jay Cook and Tanya Van Cuylenborg",
+        "year": "1987",
+        "location": "",
+        "county": "Whatcom County",
+        "type": [
+            "murder"
+        ]
+    },
+    "105": {
+        "title": "Murder of Craig Sorger",
+        "year": "",
+        "location": "",
+        "county": "Grant County",
+        "type": [
+            "murder"
+        ]
+    },
+    "106": {
+        "title": "Carl Maxey",
+        "year": "1997",
+        "location": "",
+        "county": "Spokane County",
+        "type": []
+    },
+    "107": {
+        "title": "Bellingham riots",
+        "year": "new 1907",
+        "location": "",
+        "county": "Whatcom County",
+        "type": [
+            "riot"
+        ]
+    },
+    "108": {
+        "title": "Washington State Penitentiary",
+        "year": "",
+        "location": "Walla Walla",
+        "county": "Walla Walla County",
+        "type": []
+    },
+    "109": {
+        "title": "Attack on Squak Valley Chinese laborers, 1885",
+        "year": "1885",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "110": {
+        "title": "Scattered Canary",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": []
+    },
+    "111": {
+        "title": "2007 Carnation murders",
+        "year": "2007",
+        "location": "Near Carnation, Washington",
+        "county": "King County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass murder",
+            "mass shooting"
+        ]
+    },
+    "112": {
+        "title": "Yakima Valley riots",
+        "year": "",
+        "location": "",
+        "county": "Yakima County",
+        "type": [
+            "riot"
+        ]
+    },
+    "113": {
+        "title": "Death of Otto Zehm",
+        "year": "new 2006",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "new murder"
+        ]
+    },
+    "114": {
+        "title": "Wah Mee massacre",
+        "year": "1983",
+        "location": "665 South King Street Seattle, Washington",
+        "county": "King County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass murder",
+            "mass shooting"
+        ]
+    },
+    "115": {
+        "title": "John Dwight Canaday",
+        "year": "2012",
+        "location": "",
+        "county": "Clallam County",
+        "type": [
+            "murder",
+            "rape"
+        ]
+    },
+    "116": {
+        "title": "Tacoma Mall shooting",
+        "year": "2005",
+        "location": "Tacoma, Washington, United States",
+        "county": "Pierce County",
+        "type": [
+            "kidnapping",
+            "mass shooting",
+            "murder",
+            "shooting",
+            "mass murder"
+        ]
+    },
+    "117": {
+        "title": "Jack Owen Spillman",
+        "year": "",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "murder"
+        ]
+    },
+    "118": {
+        "title": "Thomas Wales",
+        "year": "2001",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    },
+    "119": {
+        "title": "Scott Scurlock",
+        "year": "1996",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "robber",
+            "robberies"
+        ]
+    },
+    "120": {
+        "title": "George Russell (serial killer)",
+        "year": "new 1958",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "thief",
+            "theft",
+            "rape",
+            "killing"
+        ]
+    },
+    "121": {
+        "title": "Seattle Jewish Federation shooting",
+        "year": "2006",
+        "location": "Belltown, Seattle, Washington, United States",
+        "county": "King County",
+        "type": [
+            "murder",
+            "shooting",
+            "mass shooting"
+        ]
+    },
+    "122": {
+        "title": "Olaf Swenson",
+        "year": "new 1929",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "killing"
+        ]
+    },
+    "123": {
+        "title": "2016 Mukilteo shooting",
+        "year": "2016",
+        "location": "Mukilteo, Washington, U.S.",
+        "county": "Snohomish County",
+        "type": [
+            "mass shooting",
+            "assault",
+            "murder",
+            "shooting",
+            "killing"
+        ]
+    },
+    "124": {
+        "title": "Andrew Bolon",
+        "year": "1855",
+        "location": "",
+        "county": "Klickitat County",
+        "type": [
+            "murder"
+        ]
+    },
+    "125": {
+        "title": "Freeman High School (Washington)",
+        "year": "",
+        "location": "",
+        "county": "Spokane County",
+        "type": [
+            "shooting",
+            "mass shooting"
+        ]
+    },
+    "126": {
+        "title": "List of people executed in Washington",
+        "year": "",
+        "location": "",
+        "county": "",
+        "type": []
+    },
+    "127": {
+        "title": "Mitchell Rupe",
+        "year": "new 1981",
+        "location": "",
+        "county": "Thurston County",
+        "type": [
+            "murder",
+            "robbery",
+            "robber"
+        ]
+    },
+    "128": {
+        "title": "Disappearance of Susan Powell",
+        "year": "2012",
+        "location": "South Hill, Washington, U.S.",
+        "county": "Pierce County",
+        "type": [
+            "murder"
+        ]
+    },
+    "129": {
+        "title": "Mike Webb (radio host)",
+        "year": "new 2007",
+        "location": "",
+        "county": "Kitsap County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "130": {
+        "title": "Charles Rodman Campbell",
+        "year": "1982",
+        "location": "",
+        "county": "",
+        "type": [
+            "murder",
+            "rape",
+            "assault"
+        ]
+    },
+    "131": {
+        "title": "William Perry Jackson",
+        "year": "new 1980",
+        "location": "",
+        "county": "Clark County",
+        "type": [
+            "murder",
+            "robber",
+            "robberies"
+        ]
+    },
+    "132": {
+        "title": "DeWayne Lee Harris",
+        "year": "new 1997",
+        "location": "",
+        "county": "King County",
+        "type": [
+            "murder",
+            "robbery",
+            "robber"
+        ]
+    },
+    "133": {
+        "title": "Martin Stickles",
+        "year": "1901",
+        "location": "",
+        "county": "Cowlitz County",
+        "type": [
+            "murder",
+            "killing"
+        ]
+    }
+}

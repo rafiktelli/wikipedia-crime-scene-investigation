@@ -1,0 +1,633 @@
+{
+    "0": {
+        "link": "/wiki/Caril_Ann_Fugate",
+        "title": "Caril Ann Fugate",
+        "year": "1959",
+        "state": "Nebraska",
+        "county": "Lancaster County",
+        "type": [
+            "murder"
+        ]
+    },
+    "1": {
+        "link": "/wiki/Union_Pacific_Big_Springs_robbery",
+        "title": "Union Pacific Big Springs robbery",
+        "year": "2021",
+        "state": "Nebraska",
+        "county": "Deuel County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "2": {
+        "link": "/wiki/Camp_Dump_strike",
+        "title": "Camp Dump strike",
+        "year": "1882",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "3": {
+        "link": "/wiki/Murder_of_Sydney_Loofe",
+        "title": "Murder of Sydney Loofe",
+        "year": "2017",
+        "state": "Nebraska",
+        "county": "Saline County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Killing_of_Raymond_Yellow_Thunder",
+        "title": "Killing of Raymond Yellow Thunder",
+        "year": "1972",
+        "state": "Nebraska",
+        "county": "Sheridan County",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "5": {
+        "link": "/wiki/Rice%E2%80%93Poindexter_case",
+        "title": "Rice\u2013Poindexter case",
+        "year": "1970",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "6": {
+        "link": "/wiki/Robert_A._Hawkins",
+        "title": "Westroads Mall shooting",
+        "year": "2007",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "mass murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "7": {
+        "link": "/wiki/List_of_riots_and_civil_unrest_in_Omaha,_Nebraska",
+        "title": "List of riots and civil unrest in Omaha, Nebraska",
+        "year": "1895",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "8": {
+        "link": "/wiki/John_Joubert_(serial_killer)",
+        "title": "John Joubert (serial killer)",
+        "year": "1996",
+        "state": "Nebraska",
+        "county": "Nuckolls County",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "9": {
+        "link": "/wiki/Stephen_D._Richards",
+        "title": "Stephen D. Richards",
+        "year": "1879",
+        "state": "Nebraska",
+        "county": "Kearney County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "10": {
+        "link": "/wiki/Superior,_Nebraska_shooting",
+        "title": "Superior, Nebraska",
+        "year": "",
+        "state": "Nebraska",
+        "county": "Nuckolls County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "11": {
+        "link": "/wiki/Killing_of_James_Scurlock",
+        "title": "Killing of James Scurlock",
+        "year": "2020",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting",
+            "sexual assault"
+        ]
+    },
+    "12": {
+        "link": "/wiki/Mary_A._Hitchcock_Wakelin",
+        "title": "Mary A. Hitchcock Wakelin",
+        "year": "1900",
+        "state": "Nebraska",
+        "county": "Dodge County",
+        "type": [
+            "murder"
+        ]
+    },
+    "13": {
+        "link": "/wiki/Brandon_Teena",
+        "title": "Brandon Teena",
+        "year": "1993",
+        "state": "Nebraska",
+        "county": "Richardson County",
+        "type": [
+            "murder",
+            "shooting",
+            "sexual assault"
+        ]
+    },
+    "14": {
+        "link": "/wiki/Clarence_Victor",
+        "title": "Clarence Victor",
+        "year": "2015",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder"
+        ]
+    },
+    "15": {
+        "link": "/wiki/Starkweather/Fugate_murders",
+        "title": "Charles Starkweather",
+        "year": "1959",
+        "state": "Nebraska",
+        "county": "Lancaster County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Charles_Starkweather",
+        "title": "Charles Starkweather",
+        "year": "1959",
+        "state": "Nebraska",
+        "county": "Lancaster County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "17": {
+        "link": "/wiki/Murder_of_Mattieo_Condoluci",
+        "title": "Murder of Mattieo Condoluci",
+        "year": "2020",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "18": {
+        "link": "/wiki/Danny_Joe_Eberle",
+        "title": "John Joubert (serial killer)",
+        "year": "1996",
+        "state": "Nebraska",
+        "county": "Nuckolls County",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "19": {
+        "link": "/wiki/Frank_Carter_(murderer)",
+        "title": "Frank Carter (murderer)",
+        "year": "1927",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "20": {
+        "link": "/wiki/James_Scurlock_(shooting_victim)",
+        "title": "Killing of James Scurlock",
+        "year": "2020",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting",
+            "sexual assault"
+        ]
+    },
+    "21": {
+        "link": "/wiki/Vivian_Strong",
+        "title": "Shooting of Vivian Strong",
+        "year": "1969",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "22": {
+        "link": "/wiki/Edward_Parsons_Smith",
+        "title": "Edward Parsons Smith",
+        "year": "1930",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "23": {
+        "link": "/wiki/Silas_Robbins",
+        "title": "Silas Robbins",
+        "year": "1916",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "24": {
+        "link": "/wiki/Greek_Town_riot",
+        "title": "Greek Town riot",
+        "year": "1909",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "25": {
+        "link": "/wiki/Lynching_of_Joe_Coe",
+        "title": "Lynching of Joe Coe",
+        "year": "1891",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "26": {
+        "link": "/wiki/2020_Bellevue,_Nebraska_shooting",
+        "title": "Sonic Drive-In",
+        "year": "2020",
+        "state": "Nebraska",
+        "county": "Buffalo County",
+        "type": []
+    },
+    "27": {
+        "link": "/wiki/List_of_people_executed_in_Nebraska",
+        "title": "List of people executed in Nebraska",
+        "year": "",
+        "state": "Nebraska",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "28": {
+        "link": "/wiki/Anthony_Garcia_(serial_killer)",
+        "title": "Anthony Garcia (serial killer)",
+        "year": "2008",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder"
+        ]
+    },
+    "29": {
+        "link": "/wiki/Will_Brown_(lynching_victim)",
+        "title": "Omaha race riot of 1919",
+        "year": "1919",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "arson",
+            "assault",
+            "riot"
+        ]
+    },
+    "30": {
+        "link": "/wiki/George_Floyd_protests_in_Nebraska",
+        "title": "George Floyd protests in Nebraska",
+        "year": "2020",
+        "state": "Nebraska",
+        "county": "Saunders County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "31": {
+        "link": "/wiki/Nikko_Jenkins",
+        "title": "Nikko Jenkins",
+        "year": "2013",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "terrorism",
+            "robbery",
+            "assault"
+        ]
+    },
+    "32": {
+        "link": "/wiki/Wickliffe_Cooper",
+        "title": "Wickliffe Cooper",
+        "year": "1867",
+        "state": "Nebraska",
+        "county": "Dawson County",
+        "type": [
+            "murder"
+        ]
+    },
+    "33": {
+        "link": "/wiki/Omaha_race_riot_of_1919",
+        "title": "Omaha race riot of 1919",
+        "year": "1919",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "arson",
+            "assault",
+            "riot"
+        ]
+    },
+    "34": {
+        "link": "/wiki/Edward_Cudahy_Jr.",
+        "title": "Edward Cudahy Jr.",
+        "year": "1966",
+        "state": "Nebraska",
+        "county": "Lancaster County",
+        "type": [
+            "kidnapping"
+        ]
+    },
+    "35": {
+        "link": "/wiki/Millard_South_High_School_shooting",
+        "title": "Millard South High School",
+        "year": "2011",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "36": {
+        "link": "/wiki/California_Joe_Milner",
+        "title": "California Joe Milner",
+        "year": "",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "37": {
+        "link": "/wiki/Capital_punishment_in_Nebraska",
+        "title": "Capital punishment in Nebraska",
+        "year": "1959",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder"
+        ]
+    },
+    "38": {
+        "link": "/wiki/Duane_Earl_Pope",
+        "title": "Duane Earl Pope",
+        "year": "1965",
+        "state": "Nebraska",
+        "county": "Deuel County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "39": {
+        "link": "/wiki/Harold_Lamont_Otey",
+        "title": "Harold Lamont Otey",
+        "year": "1994",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "sexual assault"
+        ]
+    },
+    "40": {
+        "link": "/wiki/Roland_Sundahl",
+        "title": "Roland Sundahl",
+        "year": "1930",
+        "state": "Nebraska",
+        "county": "Platte County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "sexual assault"
+        ]
+    },
+    "41": {
+        "link": "/wiki/Execution_of_Carey_Dean_Moore",
+        "title": "Execution of Carey Dean Moore",
+        "year": "1979",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder"
+        ]
+    },
+    "42": {
+        "link": "/wiki/William_Jackson_Marion",
+        "title": "William Jackson Marion",
+        "year": "1872",
+        "state": "Nebraska",
+        "county": "Red Willow County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "43": {
+        "link": "/wiki/Crazy_Horse",
+        "title": "Crazy Horse",
+        "year": "1877",
+        "state": "Nebraska",
+        "county": "Dawes County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "44": {
+        "link": "/wiki/Emanuel_Stance",
+        "title": "Emanuel Stance",
+        "year": "1887",
+        "state": "Nebraska",
+        "county": "Red Willow County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping"
+        ]
+    },
+    "45": {
+        "link": "/wiki/Michael_W._Ryan",
+        "title": "Michael W. Ryan",
+        "year": "1985",
+        "state": "Nebraska",
+        "county": "Richardson County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "46": {
+        "link": "/wiki/North_Platte_black_exodus",
+        "title": "North Platte black exodus",
+        "year": "1929",
+        "state": "Nebraska",
+        "county": "Lincoln County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "47": {
+        "link": "/wiki/Westroads_Mall_shooting",
+        "title": "Westroads Mall shooting",
+        "year": "2007",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "mass murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "48": {
+        "link": "/wiki/Connie_Kunzmann",
+        "title": "Connie Kunzmann",
+        "year": "1981",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "49": {
+        "link": "/wiki/Shooting_of_Vivian_Strong",
+        "title": "Shooting of Vivian Strong",
+        "year": "1969",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "50": {
+        "link": "/wiki/Christopher_Walden",
+        "title": "John Joubert (serial killer)",
+        "year": "1996",
+        "state": "Nebraska",
+        "county": "Nuckolls County",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "51": {
+        "link": "/wiki/Robert_Butler_Jr.",
+        "title": "Millard South High School",
+        "year": "2011",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "52": {
+        "link": "/wiki/Just_Another_Missing_Kid",
+        "title": "Just Another Missing Kid",
+        "year": "1994",
+        "state": "Nebraska",
+        "county": "Lancaster County",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "53": {
+        "link": "/wiki/Omaha_Traction_Company",
+        "title": "Omaha Traction Company",
+        "year": "1909",
+        "state": "Nebraska",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "terrorism",
+            "robbery",
+            "riot"
+        ]
+    }
+}

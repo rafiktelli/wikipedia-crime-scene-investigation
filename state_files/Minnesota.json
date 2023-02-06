@@ -1,0 +1,4684 @@
+{
+    "0": {
+        "link": "/wiki/Monument_Avenue",
+        "title": "Monument Avenue",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Sibley County",
+        "type": [
+            "murder"
+        ]
+    },
+    "1": {
+        "link": "/wiki/Reactions_to_the_George_Floyd_protests",
+        "title": "Reactions to the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "2": {
+        "link": "/wiki/George_Floyd_protests_in_Illinois",
+        "title": "George Floyd protests in Illinois",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Jackson County",
+        "type": [
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "3": {
+        "link": "/wiki/George_Floyd_protests_in_Minnesota",
+        "title": "George Floyd protests in Minnesota",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Killing_of_James_Scurlock",
+        "title": "Killing of James Scurlock",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Nobles County",
+        "type": [
+            "murder",
+            "shooting",
+            "sexual assault"
+        ]
+    },
+    "5": {
+        "link": "/wiki/Killings_of_Aaron_Danielson_and_Michael_Reinoehl",
+        "title": "Killings of Aaron Danielson and Michael Reinoehl",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Otter Tail County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "6": {
+        "link": "/wiki/George_Rogers_Clark_Monument",
+        "title": "George Rogers Clark Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Rice County",
+        "type": []
+    },
+    "7": {
+        "link": "/wiki/Kalidas_Dih",
+        "title": "Kalidas Dih",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "8": {
+        "link": "/wiki/Death_of_Andrew_Sadek",
+        "title": "Death of Andrew Sadek",
+        "year": "1993",
+        "state": "Minnesota",
+        "county": "Wilkin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "9": {
+        "link": "/wiki/Howard_Porter_(basketball)",
+        "title": "Howard Porter (basketball)",
+        "year": "2007",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "10": {
+        "link": "/wiki/Oak_Grove_Cemetery_(Lexington,_Virginia)",
+        "title": "Oak Grove Cemetery (Lexington, Virginia)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Anoka County",
+        "type": []
+    },
+    "11": {
+        "link": "/wiki/Confederate_Soldier_Memorial_(Huntsville,_Alabama)",
+        "title": "Confederate Soldier Memorial (Huntsville, Alabama)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder"
+        ]
+    },
+    "12": {
+        "link": "/wiki/Rockstar_(DaBaby_song)",
+        "title": "Rockstar (DaBaby song)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "13": {
+        "link": "/wiki/Jack_Trice",
+        "title": "Jack Trice",
+        "year": "1923",
+        "state": "Minnesota",
+        "county": "Cass County",
+        "type": [
+            "murder"
+        ]
+    },
+    "14": {
+        "link": "/wiki/%C3%80_la_zingara",
+        "title": "\u00c0 la zingara",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Carver County",
+        "type": []
+    },
+    "15": {
+        "link": "/wiki/Arthur_Kasherman",
+        "title": "Arthur Kasherman",
+        "year": "1934",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Statue_of_Leopold_II_of_Belgium,_Ekeren",
+        "title": "Statue of Leopold II of Belgium, Ekeren",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": []
+    },
+    "17": {
+        "link": "/wiki/George_Floyd_protests_in_Michigan",
+        "title": "George Floyd protests in Michigan",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "18": {
+        "link": "/wiki/George_Floyd_protests_in_New_Zealand",
+        "title": "George Floyd protests in New Zealand",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "19": {
+        "link": "/wiki/Sambo%27s",
+        "title": "Sambo's",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "20": {
+        "link": "/wiki/Statue_of_Lord_Nelson,_Bridgetown",
+        "title": "Statue of Lord Nelson, Bridgetown",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": []
+    },
+    "21": {
+        "link": "/wiki/Ida_B._Wells-Barnett_High_School",
+        "title": "Ida B. Wells-Barnett High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "22": {
+        "link": "/wiki/Jamar_Clark",
+        "title": "Killing of Jamar Clark",
+        "year": "2015",
+        "state": "Minnesota",
+        "county": "Chippewa County",
+        "type": [
+            "terrorism",
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "23": {
+        "link": "/wiki/Archie_Williams_High_School",
+        "title": "Archie Williams High School",
+        "year": "1951",
+        "state": "Minnesota",
+        "county": "Renville County",
+        "type": [
+            "murder"
+        ]
+    },
+    "24": {
+        "link": "/wiki/Equestrian_statue_of_Stonewall_Jackson_(Charlottesville,_Virginia)",
+        "title": "Equestrian statue of Stonewall Jackson (Charlottesville, Virginia)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": []
+    },
+    "25": {
+        "link": "/wiki/Statue_of_Louis_XVI",
+        "title": "Statue of Louis XVI",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": []
+    },
+    "26": {
+        "link": "/wiki/George_Floyd_protests_in_Indiana",
+        "title": "George Floyd protests in Indiana",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "27": {
+        "link": "/wiki/Jefferson_Davis_High_School_(Montgomery,_Alabama)",
+        "title": "Jefferson Davis High School (Montgomery, Alabama)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": []
+    },
+    "28": {
+        "link": "/wiki/Donald_Blom",
+        "title": "Donald Blom",
+        "year": "2023",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "29": {
+        "link": "/wiki/Homer_Van_Meter",
+        "title": "Homer Van Meter",
+        "year": "1934",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "30": {
+        "link": "/wiki/John_A._Macdonald_Memorial_(Grandmaison)",
+        "title": "John A. Macdonald Memorial (Grandmaison)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "31": {
+        "link": "/wiki/The_Aldgate_School",
+        "title": "The Aldgate School",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "32": {
+        "link": "/wiki/George_Floyd_protests_in_Italy",
+        "title": "George Floyd protests in Italy",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder"
+        ]
+    },
+    "33": {
+        "link": "/wiki/John_C._Calhoun_Monument",
+        "title": "John C. Calhoun Monument",
+        "year": "1850",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "34": {
+        "link": "/wiki/Pine_Bluff_Confederate_Monument",
+        "title": "Pine Bluff Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "35": {
+        "link": "/wiki/Statue_of_Calvin_Griffith",
+        "title": "Statue of Calvin Griffith",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "36": {
+        "link": "/wiki/David_Brom",
+        "title": "David Brom",
+        "year": "1988",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "37": {
+        "link": "/wiki/George_Floyd_protests_in_Germany",
+        "title": "George Floyd protests in Germany",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Carver County",
+        "type": [
+            "murder"
+        ]
+    },
+    "38": {
+        "link": "/wiki/Hugh_Morse",
+        "title": "Hugh Morse",
+        "year": "2003",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "39": {
+        "link": "/wiki/Mark_McCloskey",
+        "title": "Mark McCloskey",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "shooting",
+            "arson"
+        ]
+    },
+    "40": {
+        "link": "/wiki/Jacob_Wetterling",
+        "title": "Murder of Jacob Wetterling",
+        "year": "1989",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "assault",
+            "arson",
+            "kidnapping"
+        ]
+    },
+    "41": {
+        "link": "/wiki/Confederate_Monument_(Portsmouth,_Virginia)",
+        "title": "Confederate Monument (Portsmouth, Virginia)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": [
+            "murder"
+        ]
+    },
+    "42": {
+        "link": "/wiki/His_Name_Is_George_Floyd",
+        "title": "His Name Is George Floyd",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "terrorism"
+        ]
+    },
+    "43": {
+        "link": "/wiki/St._Louis_gun-toting_incident",
+        "title": "St. Louis gun-toting incident",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "assault",
+            "shooting",
+            "arson"
+        ]
+    },
+    "44": {
+        "link": "/wiki/Richmond_Police_Memorial",
+        "title": "Richmond Police Memorial",
+        "year": "1863",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "45": {
+        "link": "/wiki/George_Floyd_protests_in_San_Diego_County,_California",
+        "title": "George Floyd protests in San Diego County, California",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "46": {
+        "link": "/wiki/Elisabeth_Congdon",
+        "title": "Elisabeth Congdon",
+        "year": "1977",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson"
+        ]
+    },
+    "47": {
+        "link": "/wiki/George_Floyd_protests_in_New_Jersey",
+        "title": "George Floyd protests in New Jersey",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "48": {
+        "link": "/wiki/Minnesota_and_International_Railway_Trestle_at_Blackduck",
+        "title": "Minnesota and International Railway Trestle at Blackduck",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Beltrami County",
+        "type": [
+            "arson"
+        ]
+    },
+    "49": {
+        "link": "/wiki/Matthew_Fontaine_Maury_Monument",
+        "title": "Matthew Fontaine Maury Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "50": {
+        "link": "/wiki/George_Floyd_Square",
+        "title": "George Floyd Square",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "51": {
+        "link": "/wiki/Rain_City_Drive",
+        "title": "Rain City Drive",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "52": {
+        "link": "/wiki/George_Floyd_protests_in_Idaho",
+        "title": "George Floyd protests in Idaho",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "53": {
+        "link": "/wiki/Columbus%27_Last_Appeal_to_Queen_Isabella",
+        "title": "Columbus' Last Appeal to Queen Isabella",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "54": {
+        "link": "/wiki/Gadsden_Confederate_Memorial",
+        "title": "Gadsden Confederate Memorial",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": []
+    },
+    "55": {
+        "link": "/wiki/List_of_statues_of_Leopold_II_of_Belgium",
+        "title": "List of statues of Leopold II of Belgium",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": [
+            "riot"
+        ]
+    },
+    "56": {
+        "link": "/wiki/Strike_for_Black_Lives_(academic_protest)",
+        "title": "Strike for Black Lives (academic protest)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "57": {
+        "link": "/wiki/Capitol_Hill_Occupied_Protest",
+        "title": "Capitol Hill Occupied Protest",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "58": {
+        "link": "/wiki/Danny_Hogan",
+        "title": "Danny Hogan",
+        "year": "1928",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping",
+            "sexual assault"
+        ]
+    },
+    "59": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Saint_Paul,_Minnesota)",
+        "title": "Statue of Christopher Columbus (Saint Paul, Minnesota)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "60": {
+        "link": "/wiki/Elmer_Jackson",
+        "title": "Duluth lynchings",
+        "year": "1920",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "assault",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "61": {
+        "link": "/wiki/Confederate_Soldiers_and_Sailors_Monument_(Indianapolis)",
+        "title": "Confederate Soldiers and Sailors Monument (Indianapolis)",
+        "year": "1862",
+        "state": "Minnesota",
+        "county": "Douglas County",
+        "type": [
+            "murder"
+        ]
+    },
+    "62": {
+        "link": "/wiki/Alvin_Karpis",
+        "title": "Alvin Karpis",
+        "year": "1979",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "63": {
+        "link": "/wiki/Killing_of_Philando_Castile",
+        "title": "Killing of Philando Castile",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "64": {
+        "link": "/wiki/Donald_Trump_photo_op_at_St._John%27s_Church",
+        "title": "Donald Trump photo op at St. John's Church",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "65": {
+        "link": "/wiki/Murder_of_Katherine_Ann_Olson",
+        "title": "Murder of Katherine Ann Olson",
+        "year": "1988",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "66": {
+        "link": "/wiki/Pacific_Northwest_Youth_Liberation_Front",
+        "title": "George Floyd protests in Portland, Oregon",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "67": {
+        "link": "/wiki/Killing_of_America_Thayer",
+        "title": "Killing of America Thayer",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "murder",
+            "assault",
+            "arson"
+        ]
+    },
+    "68": {
+        "link": "/wiki/Shakopee_(Dakota_leaders)",
+        "title": "Shakopee (Dakota leaders)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "69": {
+        "link": "/wiki/Harry_T._Hayward",
+        "title": "Harry T. Hayward",
+        "year": "1895",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "assault",
+            "arson"
+        ]
+    },
+    "70": {
+        "link": "/wiki/Cheekies",
+        "title": "Cheekies",
+        "year": "2015",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "71": {
+        "link": "/wiki/Statue_of_Alfred_Mouton",
+        "title": "Statue of Alfred Mouton",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Nicollet County",
+        "type": []
+    },
+    "72": {
+        "link": "/wiki/Tyler_Legacy_High_School",
+        "title": "Tyler Legacy High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Lincoln County",
+        "type": []
+    },
+    "73": {
+        "link": "/wiki/Nash_County_Confederate_Monument",
+        "title": "Nash County Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "74": {
+        "link": "/wiki/George_Floyd_protests_in_Nevada",
+        "title": "George Floyd protests in Nevada",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "75": {
+        "link": "/wiki/George_Floyd_protests",
+        "title": "George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "76": {
+        "link": "/wiki/Jefferson_Davis_Memorial_(Richmond,_Virginia)",
+        "title": "Jefferson Davis Memorial (Richmond, Virginia)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "77": {
+        "link": "/wiki/Blackout_Tuesday",
+        "title": "Blackout Tuesday",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "78": {
+        "link": "/wiki/George_Floyd_protests_in_Nebraska",
+        "title": "George Floyd protests in Nebraska",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "79": {
+        "link": "/wiki/Confederate_Monument_(Fort_Worth,_Texas)",
+        "title": "Confederate Monument (Fort Worth, Texas)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "80": {
+        "link": "/wiki/Clell_Miller",
+        "title": "Clell Miller",
+        "year": "1876",
+        "state": "Minnesota",
+        "county": "Rice County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "81": {
+        "link": "/wiki/Seven_Points_(Minnesota)",
+        "title": "Seven Points (Minnesota)",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "82": {
+        "link": "/wiki/Statue_of_Robert_Baden-Powell,_Poole",
+        "title": "Statue of Robert Baden-Powell, Poole",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "83": {
+        "link": "/wiki/Statue_of_Hans_Christian_Heg",
+        "title": "Statue of Hans Christian Heg",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": [
+            "riot"
+        ]
+    },
+    "84": {
+        "link": "/wiki/2020_Minneapolis_park_encampments",
+        "title": "2020 Minneapolis park encampments",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "85": {
+        "link": "/wiki/Unity_Reed_High_School",
+        "title": "Unity Reed High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "86": {
+        "link": "/wiki/Black_Lives_Matter_Memorial_Fence",
+        "title": "Black Lives Matter Memorial Fence",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "87": {
+        "link": "/wiki/George_Floyd_protests_in_South_Dakota",
+        "title": "George Floyd protests in South Dakota",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "88": {
+        "link": "/wiki/Actions_against_memorials_in_Great_Britain_during_the_George_Floyd_protests",
+        "title": "Actions against memorials in Great Britain during the George Floyd protests",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "arson",
+            "riot"
+        ]
+    },
+    "89": {
+        "link": "/wiki/Statue_of_Thomas_Jefferson_(Hempstead,_New_York)",
+        "title": "Statue of Thomas Jefferson (Hempstead, New York)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "90": {
+        "link": "/wiki/Equestrian_statue_of_Caesar_Rodney",
+        "title": "Equestrian statue of Caesar Rodney",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Houston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "91": {
+        "link": "/wiki/List_of_George_Floyd_protests_outside_the_United_States",
+        "title": "List of George Floyd protests outside the United States",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lyon County",
+        "type": [
+            "murder"
+        ]
+    },
+    "92": {
+        "link": "/wiki/2020%E2%80%932023_Minneapolis%E2%80%93Saint_Paul_racial_unrest",
+        "title": "2020\u20132023 Minneapolis\u2013Saint Paul racial unrest",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "93": {
+        "link": "/wiki/One_Riot,_One_Ranger",
+        "title": "One Riot, One Ranger",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "94": {
+        "link": "/wiki/Statues_of_Jun%C3%ADpero_Serra_(Ventura,_California)",
+        "title": "Statues of Jun\u00edpero Serra (Ventura, California)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "riot"
+        ]
+    },
+    "95": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Wilmington,_Delaware)",
+        "title": "Statue of Christopher Columbus (Wilmington, Delaware)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Houston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "96": {
+        "link": "/wiki/Statue_of_Henry_Watkins_Allen",
+        "title": "Statue of Henry Watkins Allen",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": []
+    },
+    "97": {
+        "link": "/wiki/George_Floyd_protests_in_Colorado",
+        "title": "George Floyd protests in Colorado",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "98": {
+        "link": "/wiki/List_of_incidents_of_civil_unrest_in_Minneapolis%E2%80%93Saint_Paul",
+        "title": "List of incidents of civil unrest in Minneapolis\u2013Saint Paul",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "99": {
+        "link": "/wiki/Robert_E._Lee_Memorial_Bridge",
+        "title": "Robert E. Lee Memorial Bridge",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "100": {
+        "link": "/wiki/John_C._Chenoweth",
+        "title": "John C. Chenoweth",
+        "year": "1991",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "arson"
+        ]
+    },
+    "101": {
+        "link": "/wiki/Elliott-Larsen_Building",
+        "title": "Elliott-Larsen Building",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Chisago County",
+        "type": []
+    },
+    "102": {
+        "link": "/wiki/George_Floyd_protests_in_Delaware",
+        "title": "George Floyd protests in Delaware",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "103": {
+        "link": "/wiki/2020_deployment_of_federal_forces_in_the_United_States",
+        "title": "2020 deployment of federal forces in the United States",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "104": {
+        "link": "/wiki/Captain_William_Clark_Monument",
+        "title": "Captain William Clark Monument",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "105": {
+        "link": "/wiki/George_Floyd_protests_in_California",
+        "title": "George Floyd protests in California",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "106": {
+        "link": "/wiki/Record_Heat",
+        "title": "Record Heat",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "107": {
+        "link": "/wiki/Rideau-Jock_Ward",
+        "title": "Rideau-Jock Ward",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": []
+    },
+    "108": {
+        "link": "/wiki/Monuments_and_memorials_in_Canada_removed_in_2020%E2%80%932022",
+        "title": "Monuments and memorials in Canada removed in 2020\u20132022",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "109": {
+        "link": "/wiki/Liberty_Magnet_High_School",
+        "title": "Liberty Magnet High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "riot"
+        ]
+    },
+    "110": {
+        "link": "/wiki/2016_UCLA_shooting",
+        "title": "2016 UCLA shooting",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "111": {
+        "link": "/wiki/Statue_of_Frank_Rizzo",
+        "title": "Statue of Frank Rizzo",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "112": {
+        "link": "/wiki/Statue_of_Edward_Colston",
+        "title": "Statue of Edward Colston",
+        "year": "2022",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": [
+            "murder"
+        ]
+    },
+    "113": {
+        "link": "/wiki/Bust_of_George_Floyd",
+        "title": "Bust of George Floyd",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "114": {
+        "link": "/wiki/Statue_of_Jefferson_Davis_(Frankfort,_Kentucky)",
+        "title": "Statue of Jefferson Davis (Frankfort, Kentucky)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Wright County",
+        "type": [
+            "riot"
+        ]
+    },
+    "115": {
+        "link": "/wiki/Statue_of_George_Floyd",
+        "title": "Statue of George Floyd",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "116": {
+        "link": "/wiki/Reactions_to_the_murder_of_George_Floyd",
+        "title": "Reactions to the murder of George Floyd",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "117": {
+        "link": "/wiki/George_Floyd_protests_in_Philadelphia",
+        "title": "George Floyd protests in Philadelphia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "118": {
+        "link": "/wiki/Equestrian_statue_of_Sebasti%C3%A1n_de_Belalc%C3%A1zar",
+        "title": "Equestrian statue of Sebasti\u00e1n de Belalc\u00e1zar",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": []
+    },
+    "119": {
+        "link": "/wiki/Stepney_All_Saints_School",
+        "title": "Stepney All Saints School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": []
+    },
+    "120": {
+        "link": "/wiki/Amir_Locke",
+        "title": "Killing of Amir Locke",
+        "year": "2022",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "121": {
+        "link": "/wiki/Statue_of_Jun%C3%ADpero_Serra_(Carmel-by-the-Sea,_California)",
+        "title": "Statue of Jun\u00edpero Serra (Carmel-by-the-Sea, California)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Beltrami County",
+        "type": []
+    },
+    "122": {
+        "link": "/wiki/List_of_police_violence_incidents_during_George_Floyd_protests",
+        "title": "List of police violence incidents during George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "123": {
+        "link": "/wiki/Jeff_Weise",
+        "title": "Jeff Weise",
+        "year": "2005",
+        "state": "Minnesota",
+        "county": "Red Lake County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "124": {
+        "link": "/wiki/George_Floyd_protests_in_Canada",
+        "title": "George Floyd protests in Canada",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "125": {
+        "link": "/wiki/One_Little_Independent_Records",
+        "title": "One Little Independent Records",
+        "year": "2009",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "126": {
+        "link": "/wiki/George_Floyd_protests_in_Louisiana",
+        "title": "George Floyd protests in Louisiana",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "127": {
+        "link": "/wiki/Trial_of_Derek_Chauvin",
+        "title": "Trial of Derek Chauvin",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "128": {
+        "link": "/wiki/Irwin_L._Jacobs",
+        "title": "Irwin L. Jacobs",
+        "year": "2019",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "129": {
+        "link": "/wiki/Minneapolis_firm_shooting",
+        "title": "Minneapolis firm shooting",
+        "year": "2012",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "130": {
+        "link": "/wiki/Christopher_R._Swanson",
+        "title": "Christopher R. Swanson",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "131": {
+        "link": "/wiki/George_Floyd_protests_in_Rhode_Island",
+        "title": "George Floyd protests in Rhode Island",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "132": {
+        "link": "/wiki/Arrest_of_Omar_Jimenez",
+        "title": "Omar Jimenez",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "133": {
+        "link": "/wiki/Arthur_Ashe_Monument",
+        "title": "Arthur Ashe Monument",
+        "year": "1993",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "134": {
+        "link": "/wiki/George_Floyd",
+        "title": "George Floyd",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "135": {
+        "link": "/wiki/Bristol_Beacon",
+        "title": "Bristol Beacon",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": []
+    },
+    "136": {
+        "link": "/wiki/BlueLeaks",
+        "title": "BlueLeaks",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "terrorism"
+        ]
+    },
+    "137": {
+        "link": "/wiki/Ann_Bilansky",
+        "title": "Ann Bilansky",
+        "year": "1860",
+        "state": "Minnesota",
+        "county": "Chisago County",
+        "type": [
+            "murder"
+        ]
+    },
+    "138": {
+        "link": "/wiki/George_Floyd_protests_in_New_York_City",
+        "title": "George Floyd protests in New York City",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": [
+            "murder",
+            "arson",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "139": {
+        "link": "/wiki/Statue_of_Alexander_Andreyevich_Baranov",
+        "title": "Statue of Alexander Andreyevich Baranov",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Cook County",
+        "type": []
+    },
+    "140": {
+        "link": "/wiki/Statue_of_Robert_Milligan",
+        "title": "Statue of Robert Milligan",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "141": {
+        "link": "/wiki/George_Floyd_Justice_in_Policing_Act",
+        "title": "George Floyd Justice in Policing Act",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "142": {
+        "link": "/wiki/Annie_Cordy_Tunnel",
+        "title": "Annie Cordy Tunnel",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": []
+    },
+    "143": {
+        "link": "/wiki/Not_So_Different",
+        "title": "Not So Different",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Rice County",
+        "type": []
+    },
+    "144": {
+        "link": "/wiki/Statue_of_Orville_L._Hubbard",
+        "title": "Statue of Orville L. Hubbard",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "145": {
+        "link": "/wiki/Can%27t_Put_It_in_the_Hands_of_Fate",
+        "title": "Can't Put It in the Hands of Fate",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "146": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Denver)",
+        "title": "Statue of Christopher Columbus (Denver)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Sherburne County",
+        "type": []
+    },
+    "147": {
+        "link": "/wiki/Memorial_to_Company_A,_Capitol_Guards",
+        "title": "Memorial to Company A, Capitol Guards",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "148": {
+        "link": "/wiki/Confederate_Memorial_(Wilmington,_North_Carolina)",
+        "title": "Confederate Memorial (Wilmington, North Carolina)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Houston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "149": {
+        "link": "/wiki/George_Floyd_protests_in_Maryland",
+        "title": "George Floyd protests in Maryland",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "150": {
+        "link": "/wiki/Confederate_Soldiers_and_Sailors_Monument_(Birmingham,_Alabama)",
+        "title": "Confederate Soldiers and Sailors Monument (Birmingham, Alabama)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "151": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Middletown,_Connecticut)",
+        "title": "Statue of Christopher Columbus (Middletown, Connecticut)",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Anoka County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "152": {
+        "link": "/wiki/Ralph_L._Mayhood",
+        "title": "Ralph L. Mayhood",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": [
+            "murder"
+        ]
+    },
+    "153": {
+        "link": "/wiki/George_Floyd_protests_in_Arizona",
+        "title": "George Floyd protests in Arizona",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "154": {
+        "link": "/wiki/List_of_changes_made_due_to_the_George_Floyd_protests",
+        "title": "List of changes made due to the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "155": {
+        "link": "/wiki/Statue_of_Mahatma_Gandhi_(Davis,_California)",
+        "title": "Statue of Mahatma Gandhi (Davis, California)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": []
+    },
+    "156": {
+        "link": "/wiki/George_Floyd_protests_in_Washington,_D.C.",
+        "title": "George Floyd protests in Washington, D.C.",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "157": {
+        "link": "/wiki/George_Floyd_protests_in_Utah",
+        "title": "George Floyd protests in Utah",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Wabasha County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "158": {
+        "link": "/wiki/Statue_of_Josephus_Daniels",
+        "title": "Statue of Josephus Daniels",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": []
+    },
+    "159": {
+        "link": "/wiki/Statue_of_Jun%C3%ADpero_Serra_(San_Luis_Obispo,_California)",
+        "title": "Mission San Luis Obispo de Tolosa",
+        "year": "1830",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "160": {
+        "link": "/wiki/Putnam_County_Confederate_Memorial",
+        "title": "Putnam County Confederate Memorial",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Clay County",
+        "type": []
+    },
+    "161": {
+        "link": "/wiki/Statue_of_Henry_Lawson_Wyatt",
+        "title": "Statue of Henry Lawson Wyatt",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": []
+    },
+    "162": {
+        "link": "/wiki/Murders_of_Haile_Kifer_and_Nicholas_Brady",
+        "title": "Murders of Haile Kifer and Nicholas Brady",
+        "year": "2012",
+        "state": "Minnesota",
+        "county": "Morrison County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "163": {
+        "link": "/wiki/Lady_A",
+        "title": "Lady A",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Martin County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "164": {
+        "link": "/wiki/DeKalb_County_Confederate_Monument",
+        "title": "DeKalb County Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "165": {
+        "link": "/wiki/I_Cry_(Usher_song)",
+        "title": "I Cry (Usher song)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "166": {
+        "link": "/wiki/George_Floyd_protests_in_Missouri",
+        "title": "George Floyd protests in Missouri",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Wabasha County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "167": {
+        "link": "/wiki/Protests_in_Minneapolis_regarding_the_trial_of_Derek_Chauvin",
+        "title": "Protests in Minneapolis regarding the trial of Derek Chauvin",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "168": {
+        "link": "/wiki/Buffalo_police_shoving_incident",
+        "title": "Buffalo police shoving incident",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Wright County",
+        "type": [
+            "assault"
+        ]
+    },
+    "169": {
+        "link": "/wiki/Lists_of_George_Floyd_protests",
+        "title": "Lists of George Floyd protests",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "170": {
+        "link": "/wiki/Harry_Edward_Greenwell",
+        "title": "Harry Edward Greenwell",
+        "year": "2013",
+        "state": "Minnesota",
+        "county": "Mower County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "171": {
+        "link": "/wiki/George_Floyd_protests_in_Oregon",
+        "title": "George Floyd protests in Oregon",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "riot"
+        ]
+    },
+    "172": {
+        "link": "/wiki/Canton_of_Plateau_d%27Hauteville",
+        "title": "Canton of Plateau d'Hauteville",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": []
+    },
+    "173": {
+        "link": "/wiki/George_Floyd_protests_in_Chicago",
+        "title": "George Floyd protests in Chicago",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "174": {
+        "link": "/wiki/Statue_of_Abraham_Lincoln_(Portland,_Oregon)",
+        "title": "Statue of Abraham Lincoln (Portland, Oregon)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "175": {
+        "link": "/wiki/George_Floyd_protests_in_Iowa",
+        "title": "George Floyd protests in Iowa",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Itasca County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "176": {
+        "link": "/wiki/Sir_John_Hawkins_Square",
+        "title": "Sir John Hawkins Square",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "177": {
+        "link": "/wiki/Elias_Clayton",
+        "title": "Duluth lynchings",
+        "year": "1920",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "assault",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "178": {
+        "link": "/wiki/George_Floyd_protests_in_Wisconsin",
+        "title": "George Floyd protests in Wisconsin",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "179": {
+        "link": "/wiki/Equestrian_Statue_of_Theodore_Roosevelt_(New_York_City)",
+        "title": "Equestrian Statue of Theodore Roosevelt (New York City)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": []
+    },
+    "180": {
+        "link": "/wiki/George_Floyd_protests_in_Wyoming",
+        "title": "George Floyd protests in Wyoming",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "181": {
+        "link": "/wiki/Wanata",
+        "title": "Wanata",
+        "year": "1897",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder"
+        ]
+    },
+    "182": {
+        "link": "/wiki/I_can%27t_breathe",
+        "title": "I can't breathe",
+        "year": "2014",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "183": {
+        "link": "/wiki/Duluth_lynchings",
+        "title": "Duluth lynchings",
+        "year": "1920",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "assault",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "184": {
+        "link": "/wiki/Statue_of_Frederick_Douglass_(Rochester,_New_York)",
+        "title": "Statue of Frederick Douglass (Rochester, New York)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": []
+    },
+    "185": {
+        "link": "/wiki/Albert_Pike_Memorial",
+        "title": "Albert Pike Memorial",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "186": {
+        "link": "/wiki/Death_of_Belly_Mujinga",
+        "title": "Death of Belly Mujinga",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": []
+    },
+    "187": {
+        "link": "/wiki/2020_Gettysburg_hoax",
+        "title": "George Floyd protests in Pennsylvania",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "188": {
+        "link": "/wiki/Statue_of_Thomas_Jefferson_(Decatur,_Georgia)",
+        "title": "Statue of Thomas Jefferson (Decatur, Georgia)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "189": {
+        "link": "/wiki/George_Floyd_protests_in_Georgia",
+        "title": "George Floyd protests in Georgia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "McLeod County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "190": {
+        "link": "/wiki/Thompson_Elk_Fountain",
+        "title": "Thompson Elk Fountain",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Sherburne County",
+        "type": []
+    },
+    "191": {
+        "link": "/wiki/George_Floyd_protests_in_Arkansas",
+        "title": "George Floyd protests in Arkansas",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "riot"
+        ]
+    },
+    "192": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(San_Francisco)",
+        "title": "Statue of Christopher Columbus (San Francisco)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": []
+    },
+    "193": {
+        "link": "/wiki/At_Ready_(statue)",
+        "title": "At Ready (statue)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "194": {
+        "link": "/wiki/Bentonville_Confederate_Monument",
+        "title": "Bentonville Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "195": {
+        "link": "/wiki/Burnsville_High_School_1994_arson_fire",
+        "title": "Burnsville High School",
+        "year": "1994",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "arson"
+        ]
+    },
+    "196": {
+        "link": "/wiki/Statue_of_Raphael_Semmes",
+        "title": "Statue of Raphael Semmes",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Itasca County",
+        "type": []
+    },
+    "197": {
+        "link": "/wiki/George_Floyd_protests_in_Los_Angeles_County,_California",
+        "title": "George Floyd protests in Los Angeles County, California",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson"
+        ]
+    },
+    "198": {
+        "link": "/wiki/2020_Minneapolis_false_rumors_riot",
+        "title": "2020 Minneapolis false rumors riot",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "199": {
+        "link": "/wiki/UC_Baseball_Stadium",
+        "title": "UC Baseball Stadium",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": []
+    },
+    "200": {
+        "link": "/wiki/Emancipation_Memorial",
+        "title": "Emancipation Memorial",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "201": {
+        "link": "/wiki/George_Floyd_protests_in_Montana",
+        "title": "George Floyd protests in Montana",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "202": {
+        "link": "/wiki/Bob_Kroll_(police_officer)",
+        "title": "Bob Kroll (police officer)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "terrorism",
+            "shooting",
+            "assault"
+        ]
+    },
+    "203": {
+        "link": "/wiki/2021_Uptown_Minneapolis_unrest",
+        "title": "2021 Uptown Minneapolis unrest",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "204": {
+        "link": "/wiki/Oliver_G._Traphagen_House",
+        "title": "Oliver G. Traphagen House",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "arson"
+        ]
+    },
+    "205": {
+        "link": "/wiki/Statue_of_Juan_de_O%C3%B1ate_(Albuquerque,_New_Mexico)",
+        "title": "Statue of Juan de O\u00f1ate (Albuquerque, New Mexico)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "206": {
+        "link": "/wiki/Hero_of_Israel_(statue)",
+        "title": "Hero of Israel (statue)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "207": {
+        "link": "/wiki/List_of_vehicle-ramming_incidents_during_George_Floyd_protests",
+        "title": "List of vehicle-ramming incidents during George Floyd protests",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "terrorism"
+        ]
+    },
+    "208": {
+        "link": "/wiki/Unity_Braxton_Middle_School",
+        "title": "Unity Braxton Middle School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "209": {
+        "link": "/wiki/Murder_of_Dennis_Jurgens",
+        "title": "Murder of Dennis Jurgens",
+        "year": "1965",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "210": {
+        "link": "/wiki/List_of_arson_damage_during_the_George_Floyd_protests_in_Minneapolis%E2%80%93Saint_Paul",
+        "title": "List of arson damage during the George Floyd protests in Minneapolis\u2013Saint Paul",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "211": {
+        "link": "/wiki/Justine_Damond",
+        "title": "Killing of Justine Damond",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "212": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Bridgeport,_Connecticut)",
+        "title": "Statue of Christopher Columbus (Bridgeport, Connecticut)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "213": {
+        "link": "/wiki/Shooting_of_Sean_Monterrosa",
+        "title": "Shooting of Sean Monterrosa",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "214": {
+        "link": "/wiki/George_Floyd_protests_in_Pennsylvania",
+        "title": "George Floyd protests in Pennsylvania",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "215": {
+        "link": "/wiki/Memorials_to_George_Floyd",
+        "title": "Memorials to George Floyd",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "216": {
+        "link": "/wiki/Daunte_Wright",
+        "title": "Killing of Daunte Wright",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "217": {
+        "link": "/wiki/Statue_of_Louis_Agassiz",
+        "title": "Statue of Louis Agassiz",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "218": {
+        "link": "/wiki/Philando_Castile",
+        "title": "Killing of Philando Castile",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "219": {
+        "link": "/wiki/Harvey_Carignan",
+        "title": "Harvey Carignan",
+        "year": "1949",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "kidnapping",
+            "sexual assault",
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "220": {
+        "link": "/wiki/30_Fenchurch_Street",
+        "title": "30 Fenchurch Street",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "sexual assault"
+        ]
+    },
+    "221": {
+        "link": "/wiki/George_Davis_Monument",
+        "title": "George Davis Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Houston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "222": {
+        "link": "/wiki/2016_St._Cloud,_Minnesota_knife_attack",
+        "title": "2016 St. Cloud, Minnesota knife attack",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "terrorism",
+            "shooting"
+        ]
+    },
+    "223": {
+        "link": "/wiki/George_Floyd_protests_in_Ohio",
+        "title": "George Floyd protests in Ohio",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "224": {
+        "link": "/wiki/Statue_of_Robert_Clayton",
+        "title": "Statue of Robert Clayton",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "225": {
+        "link": "/wiki/George_Floyd_protests_in_North_Carolina",
+        "title": "George Floyd protests in North Carolina",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "226": {
+        "link": "/wiki/Oregon%E2%80%93Oregon_State_football_rivalry",
+        "title": "Oregon\u2013Oregon State football rivalry",
+        "year": "1912",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "riot"
+        ]
+    },
+    "227": {
+        "link": "/wiki/Frank_MacKey",
+        "title": "Frank MacKey",
+        "year": "1927",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "228": {
+        "link": "/wiki/Statue_of_Harvey_W._Scott",
+        "title": "Statue of Harvey W. Scott",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "arson"
+        ]
+    },
+    "229": {
+        "link": "/wiki/Daniel_Hittle",
+        "title": "Daniel Hittle",
+        "year": "2000",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "230": {
+        "link": "/wiki/Statue_of_Francis_Scott_Key_(San_Francisco)",
+        "title": "Statue of Francis Scott Key (San Francisco)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "231": {
+        "link": "/wiki/George_Floyd_protests_in_the_Netherlands",
+        "title": "George Floyd protests in the Netherlands",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "232": {
+        "link": "/wiki/Commission_for_Diversity_in_the_Public_Realm",
+        "title": "Commission for Diversity in the Public Realm",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "233": {
+        "link": "/wiki/Statue_of_Edward_W._Carmack",
+        "title": "Statue of Edward W. Carmack",
+        "year": "1908",
+        "state": "Minnesota",
+        "county": "Martin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "234": {
+        "link": "/wiki/Equestrian_statue_of_Juan_de_O%C3%B1ate",
+        "title": "Equestrian statue of Juan de O\u00f1ate",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "mass murder"
+        ]
+    },
+    "235": {
+        "link": "/wiki/George_Floyd_protests_in_Tennessee",
+        "title": "George Floyd protests in Tennessee",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "236": {
+        "link": "/wiki/2014_University_of_Minnesota_rape_case",
+        "title": "2014 University of Minnesota rape case",
+        "year": "2014",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "237": {
+        "link": "/wiki/The_Pioneer_(Eugene,_Oregon)",
+        "title": "The Pioneer (Eugene, Oregon)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "238": {
+        "link": "/wiki/Statue_of_Jerry_Richardson",
+        "title": "Statue of Jerry Richardson",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Todd County",
+        "type": []
+    },
+    "239": {
+        "link": "/wiki/Statue_of_Williams_Carter_Wickham",
+        "title": "Statue of Williams Carter Wickham",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "robbery",
+            "riot"
+        ]
+    },
+    "240": {
+        "link": "/wiki/George_Floyd_protests_in_Alabama",
+        "title": "George Floyd protests in Alabama",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Clay County",
+        "type": [
+            "robbery",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "241": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Providence,_Rhode_Island)",
+        "title": "Statue of Christopher Columbus (Providence, Rhode Island)",
+        "year": "2010",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": [
+            "murder"
+        ]
+    },
+    "242": {
+        "link": "/wiki/Black_Lives_Matter_art_in_Portland,_Oregon",
+        "title": "Black Lives Matter art in Portland, Oregon",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "243": {
+        "link": "/wiki/Isaac_McGhie",
+        "title": "Duluth lynchings",
+        "year": "1920",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "assault",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "244": {
+        "link": "/wiki/Wall_of_Moms",
+        "title": "Wall of Moms",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "kidnapping"
+        ]
+    },
+    "245": {
+        "link": "/wiki/Nicholas_Gustafson",
+        "title": "Nicholas Gustafson",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Rice County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "246": {
+        "link": "/wiki/George_Floyd_protests_in_Belgium",
+        "title": "George Floyd protests in Belgium",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": [
+            "murder",
+            "mass murder",
+            "robbery"
+        ]
+    },
+    "247": {
+        "link": "/wiki/The_Pioneer_Mother_(Eugene,_Oregon)",
+        "title": "The Pioneer Mother (Eugene, Oregon)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "arson"
+        ]
+    },
+    "248": {
+        "link": "/wiki/Save_the_Boards",
+        "title": "Save the Boards",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "249": {
+        "link": "/wiki/Murders_of_Oluwatoyin_Salau_and_Victoria_Sims",
+        "title": "Murders of Oluwatoyin Salau and Victoria Sims",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "assault",
+            "kidnapping"
+        ]
+    },
+    "250": {
+        "link": "/wiki/Ladders_of_Supremacy",
+        "title": "Vaxis \u2013 Act II: A Window of the Waking Mind",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Blue Earth County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping"
+        ]
+    },
+    "251": {
+        "link": "/wiki/Hey_Reb!",
+        "title": "Hey Reb!",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Carver County",
+        "type": []
+    },
+    "252": {
+        "link": "/wiki/1967_Minneapolis_Riot",
+        "title": "1967 Minneapolis Riot",
+        "year": "1967",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "253": {
+        "link": "/wiki/Edy%27s_Pie",
+        "title": "Edy's Pie",
+        "year": "1992",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "254": {
+        "link": "/wiki/George_Floyd_protests_in_Portland,_Oregon",
+        "title": "George Floyd protests in Portland, Oregon",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "255": {
+        "link": "/wiki/John_B._Castleman_Monument",
+        "title": "John B. Castleman Monument",
+        "year": "1868",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "murder"
+        ]
+    },
+    "256": {
+        "link": "/wiki/Ben%27s_Original",
+        "title": "Ben's Original",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "257": {
+        "link": "/wiki/Nobody%27s_Love",
+        "title": "Nobody's Love",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "258": {
+        "link": "/wiki/List_of_police_reforms_related_to_the_George_Floyd_protests",
+        "title": "List of police reforms related to the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "259": {
+        "link": "/wiki/Appomattox_(statue)",
+        "title": "Appomattox (statue)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Douglas County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "260": {
+        "link": "/wiki/Bill_Wilson_(catcher)",
+        "title": "Bill Wilson (catcher)",
+        "year": "1924",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "261": {
+        "link": "/wiki/George_Floyd_protests_in_Australia",
+        "title": "George Floyd protests in Australia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "262": {
+        "link": "/wiki/Daunte_Wright_protests",
+        "title": "Daunte Wright protests",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "263": {
+        "link": "/wiki/Andrew_Sadek",
+        "title": "Death of Andrew Sadek",
+        "year": "1993",
+        "state": "Minnesota",
+        "county": "Wilkin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "264": {
+        "link": "/wiki/The_Mariners%27_Lake",
+        "title": "The Mariners' Lake",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Big Stone County",
+        "type": []
+    },
+    "265": {
+        "link": "/wiki/Statue_of_Pierre_Belain_d%27Esnambuc",
+        "title": "Statue of Pierre Belain d'Esnambuc",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "266": {
+        "link": "/wiki/Monument_to_North_Carolina_Women_of_the_Confederacy",
+        "title": "Monument to North Carolina Women of the Confederacy",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "267": {
+        "link": "/wiki/Church_of_St._Mary_(Melrose,_Minnesota)",
+        "title": "Church of St. Mary (Melrose, Minnesota)",
+        "year": "1882",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "arson"
+        ]
+    },
+    "268": {
+        "link": "/wiki/The_Chicks",
+        "title": "The Chicks",
+        "year": "2003",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "269": {
+        "link": "/wiki/George_Floyd_protests_in_Hawaii",
+        "title": "George Floyd protests in Hawaii",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "270": {
+        "link": "/wiki/8_minutes_46_seconds",
+        "title": "8 minutes 46 seconds",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "271": {
+        "link": "/wiki/Justus_Cornelius_Ramsey",
+        "title": "Justus Cornelius Ramsey",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "272": {
+        "link": "/wiki/George_Floyd_protests_in_Atlanta",
+        "title": "George Floyd protests in Atlanta",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "McLeod County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "273": {
+        "link": "/wiki/Electric_Callboy",
+        "title": "Electric Callboy",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": []
+    },
+    "274": {
+        "link": "/wiki/Meriwether_Lewis_and_William_Clark_(sculpture)",
+        "title": "Meriwether Lewis and William Clark (sculpture)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "275": {
+        "link": "/wiki/All_Souls_College_Library",
+        "title": "All Souls College Library",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Isanti County",
+        "type": []
+    },
+    "276": {
+        "link": "/wiki/George_Floyd_protests_in_Vermont",
+        "title": "George Floyd protests in Vermont",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "277": {
+        "link": "/wiki/Mohamed_Mohamed_Noor",
+        "title": "Killing of Justine Damond",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "278": {
+        "link": "/wiki/Lafayette_Square,_Washington,_D.C.",
+        "title": "Lafayette Square, Washington, D.C.",
+        "year": "1851",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "279": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Hartford,_Connecticut)",
+        "title": "Statue of Christopher Columbus (Hartford, Connecticut)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Winona County",
+        "type": []
+    },
+    "280": {
+        "link": "/wiki/Bust_of_John_McDonogh",
+        "title": "Bust of John McDonogh",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "281": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(St._Louis)",
+        "title": "Statue of Christopher Columbus (St. Louis)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "282": {
+        "link": "/wiki/Aftermath_of_the_George_Floyd_protests_in_Minneapolis%E2%80%93Saint_Paul",
+        "title": "Aftermath of the George Floyd protests in Minneapolis\u2013Saint Paul",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "283": {
+        "link": "/wiki/William_Williams_(murderer)",
+        "title": "William Williams (murderer)",
+        "year": "1906",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "284": {
+        "link": "/wiki/Joseph_Ture_Jr.",
+        "title": "Joseph Ture Jr.",
+        "year": "1978",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "285": {
+        "link": "/wiki/Holding_a_Black_Lives_Matter_Sign_in_America%27s_Most_Racist_Town",
+        "title": "Holding a Black Lives Matter Sign in America's Most Racist Town",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "terrorism",
+            "riot"
+        ]
+    },
+    "286": {
+        "link": "/wiki/George_Floyd_protests_in_North_Dakota",
+        "title": "George Floyd protests in North Dakota",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "287": {
+        "link": "/wiki/Black_Lives_Matter_protests_in_New_York_City",
+        "title": "Black Lives Matter protests in New York City",
+        "year": "2014",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "288": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(New_Haven,_Connecticut)",
+        "title": "Statue of Christopher Columbus (New Haven, Connecticut)",
+        "year": "1955",
+        "state": "Minnesota",
+        "county": "Olmsted County",
+        "type": [
+            "murder"
+        ]
+    },
+    "289": {
+        "link": "/wiki/Minneapolis_Thanksgiving_Day_fire",
+        "title": "Minneapolis Thanksgiving Day fire",
+        "year": "1982",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "290": {
+        "link": "/wiki/Statue_of_Philip_Schuyler",
+        "title": "Statue of Philip Schuyler",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "291": {
+        "link": "/wiki/LeConte_Hall",
+        "title": "LeConte Hall",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "292": {
+        "link": "/wiki/George_Floyd_protests_in_the_United_Kingdom",
+        "title": "George Floyd protests in the United Kingdom",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "293": {
+        "link": "/wiki/Spirit_of_the_Confederacy",
+        "title": "Spirit of the Confederacy",
+        "year": "2015",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "294": {
+        "link": "/wiki/Red_Ripperz",
+        "title": "Red Ripperz",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "295": {
+        "link": "/wiki/Statue_of_Benjamin_Welch_Owens",
+        "title": "Statue of Benjamin Welch Owens",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "296": {
+        "link": "/wiki/J._E._B._Stuart_Monument",
+        "title": "J. E. B. Stuart Monument",
+        "year": "1875",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "297": {
+        "link": "/wiki/Emancipation_Memorial_(Boston)",
+        "title": "Emancipation Memorial (Boston)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "298": {
+        "link": "/wiki/Michelle_Busha",
+        "title": "Murder of Michelle Busha",
+        "year": "1980",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "299": {
+        "link": "/wiki/Killing_of_Fong_Lee",
+        "title": "Killing of Fong Lee",
+        "year": "2006",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "300": {
+        "link": "/wiki/First_College",
+        "title": "First College",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "301": {
+        "link": "/wiki/Billy_Glaze",
+        "title": "Billy Glaze",
+        "year": "2015",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "302": {
+        "link": "/wiki/George_Floyd_protests_in_Texas",
+        "title": "George Floyd protests in Texas",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Nobles County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "303": {
+        "link": "/wiki/Stonewall_Jackson_Monument",
+        "title": "Stonewall Jackson Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "304": {
+        "link": "/wiki/Winston_Boogie_Smith",
+        "title": "Killing of Winston Boogie Smith",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "305": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Camden,_New_Jersey)",
+        "title": "Statue of Christopher Columbus (Camden, New Jersey)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "306": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Newark,_New_Jersey)",
+        "title": "Statue of Christopher Columbus (Newark, New Jersey)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": []
+    },
+    "307": {
+        "link": "/wiki/Bust_of_Ulysses_S._Grant_(San_Francisco)",
+        "title": "Bust of Ulysses S. Grant (San Francisco)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "308": {
+        "link": "/wiki/George_Floyd_protests_in_Seattle",
+        "title": "George Floyd protests in Seattle",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "309": {
+        "link": "/wiki/Buffalo,_Minnesota_clinic_attack",
+        "title": "Buffalo, Minnesota clinic attack",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Wright County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "310": {
+        "link": "/wiki/George_Floyd_protests_in_Alaska",
+        "title": "George Floyd protests in Alaska",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "311": {
+        "link": "/wiki/Derek_Chauvin",
+        "title": "Derek Chauvin",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "312": {
+        "link": "/wiki/Central_Park,_Denver",
+        "title": "Central Park, Denver",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder"
+        ]
+    },
+    "313": {
+        "link": "/wiki/Confederate_Memorial_(Jacksonville,_Florida)",
+        "title": "Confederate Memorial (Jacksonville, Florida)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "314": {
+        "link": "/wiki/Barry_Bennett",
+        "title": "Barry Bennett",
+        "year": "2019",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "315": {
+        "link": "/wiki/Murder_of_David_Dorn",
+        "title": "Murder of David Dorn",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "316": {
+        "link": "/wiki/Princeton_School_of_Public_and_International_Affairs",
+        "title": "Princeton School of Public and International Affairs",
+        "year": "1930",
+        "state": "Minnesota",
+        "county": "Mille Lacs County",
+        "type": [
+            "murder"
+        ]
+    },
+    "317": {
+        "link": "/wiki/Beacon_Tower",
+        "title": "Beacon Tower",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": []
+    },
+    "318": {
+        "link": "/wiki/Strike_for_Black_Lives_(coalition_protest)",
+        "title": "Strike for Black Lives (coalition protest)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "319": {
+        "link": "/wiki/George_Floyd_and_Anti-Racist_Street_Art_database",
+        "title": "George Floyd and Anti-Racist Street Art database",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "320": {
+        "link": "/wiki/Black_Lives_Matter_Plaza",
+        "title": "Black Lives Matter Plaza",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "321": {
+        "link": "/wiki/John_F._McGee",
+        "title": "John F. McGee",
+        "year": "1925",
+        "state": "Minnesota",
+        "county": "Blue Earth County",
+        "type": []
+    },
+    "322": {
+        "link": "/wiki/Operation_Legend",
+        "title": "Operation Legend",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Anoka County",
+        "type": [
+            "murder",
+            "shooting",
+            "arson"
+        ]
+    },
+    "323": {
+        "link": "/wiki/Pioneer_Fountain",
+        "title": "Pioneer Fountain",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Sherburne County",
+        "type": [
+            "arson"
+        ]
+    },
+    "324": {
+        "link": "/wiki/Statue_of_John_Fane_Charles_Hamilton",
+        "title": "Statue of John Fane Charles Hamilton",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "325": {
+        "link": "/wiki/Oklahoma_House_Bill_1674_(2021)",
+        "title": "Oklahoma House Bill 1674 (2021)",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "326": {
+        "link": "/wiki/Amir_Haskel",
+        "title": "Amir Haskel",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "327": {
+        "link": "/wiki/Howitzer_Monument",
+        "title": "Howitzer Monument",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "riot"
+        ]
+    },
+    "328": {
+        "link": "/wiki/Cole_Younger",
+        "title": "Cole Younger",
+        "year": "1916",
+        "state": "Minnesota",
+        "county": "Jackson County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "329": {
+        "link": "/wiki/Nathan_Bedford_Forrest_Bust",
+        "title": "Nathan Bedford Forrest Bust",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Martin County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "330": {
+        "link": "/wiki/George_Floyd_protests_in_the_San_Francisco_Bay_Area",
+        "title": "George Floyd protests in the San Francisco Bay Area",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson"
+        ]
+    },
+    "331": {
+        "link": "/wiki/Hole_in_the_Day",
+        "title": "Hole in the Day",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "332": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Columbia,_South_Carolina)",
+        "title": "Statue of Christopher Columbus (Columbia, South Carolina)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "333": {
+        "link": "/wiki/George_Floyd_protests_in_Richmond,_Virginia",
+        "title": "George Floyd protests in Richmond, Virginia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "arson",
+            "riot"
+        ]
+    },
+    "334": {
+        "link": "/wiki/Walter_Liggett",
+        "title": "Walter Liggett",
+        "year": "1935",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "335": {
+        "link": "/wiki/Statue_of_George_Whitefield",
+        "title": "Statue of George Whitefield",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "336": {
+        "link": "/wiki/Statue_of_Richard_W._Dowling",
+        "title": "Statue of Richard W. Dowling",
+        "year": "11938",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "337": {
+        "link": "/wiki/Lynching_of_Olli_Kinkkonen",
+        "title": "Lynching of Olli Kinkkonen",
+        "year": "1918",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "338": {
+        "link": "/wiki/Violence_and_controversies_during_the_George_Floyd_protests",
+        "title": "Violence and controversies during the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "arson",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "339": {
+        "link": "/wiki/George_Floyd_protests_in_Mississippi",
+        "title": "George Floyd protests in Mississippi",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Brown County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "340": {
+        "link": "/wiki/Julius_L._Chambers_High_School",
+        "title": "Julius L. Chambers High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Todd County",
+        "type": []
+    },
+    "341": {
+        "link": "/wiki/Little_Crow",
+        "title": "Little Crow",
+        "year": "1863",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "342": {
+        "link": "/wiki/Death_of_Sarah_Grossman",
+        "title": "List of police violence incidents during George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "343": {
+        "link": "/wiki/George_Floyd_protests_in_New_Hampshire",
+        "title": "George Floyd protests in New Hampshire",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Fillmore County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "344": {
+        "link": "/wiki/Statue_of_Joseph_Bryan",
+        "title": "Statue of Joseph Bryan",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "345": {
+        "link": "/wiki/Civil_War_Monument_(Denver)",
+        "title": "Civil War Monument (Denver)",
+        "year": "1909",
+        "state": "Minnesota",
+        "county": "Sherburne County",
+        "type": [
+            "arson"
+        ]
+    },
+    "346": {
+        "link": "/wiki/List_of_monuments_and_memorials_removed_during_the_George_Floyd_protests",
+        "title": "List of monuments and memorials removed during the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "347": {
+        "link": "/wiki/Rocori_High_School_shooting",
+        "title": "Rocori High School shooting",
+        "year": "2003",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "348": {
+        "link": "/wiki/Lion_Attacking_a_Dromedary",
+        "title": "Lion Attacking a Dromedary",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "349": {
+        "link": "/wiki/George_Floyd_protests_in_Maine",
+        "title": "George Floyd protests in Maine",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "350": {
+        "link": "/wiki/Dahir_A._Adan",
+        "title": "2016 St. Cloud, Minnesota knife attack",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "terrorism",
+            "shooting"
+        ]
+    },
+    "351": {
+        "link": "/wiki/Statue_of_John_Sutter",
+        "title": "Statue of John Sutter",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "352": {
+        "link": "/wiki/Killing_of_David_McAtee",
+        "title": "Killing of David McAtee",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "353": {
+        "link": "/wiki/Vance_Monument",
+        "title": "Vance Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": [
+            "assault"
+        ]
+    },
+    "354": {
+        "link": "/wiki/Andrew_Myrick",
+        "title": "Andrew Myrick",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder"
+        ]
+    },
+    "355": {
+        "link": "/wiki/Menace_of_Destruction",
+        "title": "Menace of Destruction",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Winona County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "356": {
+        "link": "/wiki/George_Floyd_protests_in_Minneapolis%E2%80%93Saint_Paul",
+        "title": "George Floyd protests in Minneapolis\u2013Saint Paul",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "357": {
+        "link": "/wiki/George_Floyd_protests_in_Washington_(state)",
+        "title": "George Floyd protests in Washington (state)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "358": {
+        "link": "/wiki/Paul_Michael_Stephani",
+        "title": "Paul Michael Stephani",
+        "year": "1998",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder"
+        ]
+    },
+    "359": {
+        "link": "/wiki/George_Floyd_protests_in_Kansas",
+        "title": "George Floyd protests in Kansas",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lac qui Parle County",
+        "type": [
+            "riot"
+        ]
+    },
+    "360": {
+        "link": "/wiki/Jim_Younger",
+        "title": "Jim Younger",
+        "year": "1902",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "361": {
+        "link": "/wiki/Arthur_and_Edith_Lee_House",
+        "title": "Arthur and Edith Lee House",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "362": {
+        "link": "/wiki/George_Floyd_protests_in_South_Carolina",
+        "title": "George Floyd protests in South Carolina",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lake County",
+        "type": [
+            "murder",
+            "arson",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "363": {
+        "link": "/wiki/George_Floyd_protests_in_Massachusetts",
+        "title": "George Floyd protests in Massachusetts",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "robbery",
+            "riot"
+        ]
+    },
+    "364": {
+        "link": "/wiki/List_of_George_Floyd_protests_in_the_United_States",
+        "title": "List of George Floyd protests in the United States",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "365": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(North_End,_Boston)",
+        "title": "Statue of Christopher Columbus (North End, Boston)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "366": {
+        "link": "/wiki/George_Floyd_protests_in_West_Virginia",
+        "title": "George Floyd protests in West Virginia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Lake County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "367": {
+        "link": "/wiki/NASA_Headquarters",
+        "title": "NASA Headquarters",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": []
+    },
+    "368": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Columbus_City_Hall)",
+        "title": "Statue of Christopher Columbus (Columbus City Hall)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "369": {
+        "link": "/wiki/Statue_of_Thomas_Guy",
+        "title": "Statue of Thomas Guy",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder"
+        ]
+    },
+    "370": {
+        "link": "/wiki/Demetria_Hester",
+        "title": "Demetria Hester",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "371": {
+        "link": "/wiki/George_Floyd_protests_in_New_Mexico",
+        "title": "George Floyd protests in New Mexico",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "372": {
+        "link": "/wiki/George_Floyd_protests_in_Connecticut",
+        "title": "George Floyd protests in Connecticut",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Winona County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "373": {
+        "link": "/wiki/Minneapolis_general_strike_of_1934",
+        "title": "Minneapolis general strike of 1934",
+        "year": "1934",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "374": {
+        "link": "/wiki/Robert_E._Lee_Monument_(Richmond,_Virginia)",
+        "title": "Robert E. Lee Monument (Richmond, Virginia)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder"
+        ]
+    },
+    "375": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Baltimore)",
+        "title": "Statue of Christopher Columbus (Baltimore)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Anoka County",
+        "type": [
+            "arson"
+        ]
+    },
+    "376": {
+        "link": "/wiki/Lois_Jurgens",
+        "title": "Lois Jurgens",
+        "year": "1965",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder"
+        ]
+    },
+    "377": {
+        "link": "/wiki/Murder_of_Brian_Glick",
+        "title": "Murder of Brian Glick",
+        "year": "1993",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "378": {
+        "link": "/wiki/Glow_%26_Lovely",
+        "title": "Glow & Lovely",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "379": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Chula_Vista,_California)",
+        "title": "Statue of Christopher Columbus (Chula Vista, California)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "380": {
+        "link": "/wiki/George_Floyd_protests_in_Virginia",
+        "title": "George Floyd protests in Virginia",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "381": {
+        "link": "/wiki/Katie_Poirier",
+        "title": "Donald Blom",
+        "year": "2023",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "382": {
+        "link": "/wiki/George_Floyd_protests_in_Florida",
+        "title": "George Floyd protests in Florida",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "383": {
+        "link": "/wiki/George_Floyd_protests_in_Oklahoma",
+        "title": "George Floyd protests in Oklahoma",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "384": {
+        "link": "/wiki/Theodore_Roosevelt,_Rough_Rider",
+        "title": "Theodore Roosevelt, Rough Rider",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "385": {
+        "link": "/wiki/Thomas_Jefferson_(Bitter)",
+        "title": "Thomas Jefferson (Bitter)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "386": {
+        "link": "/wiki/2021_Minneapolis_Question_2",
+        "title": "2021 Minneapolis Question 2",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "387": {
+        "link": "/wiki/Joseph_Lee_Heywood",
+        "title": "Joseph Lee Heywood",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "388": {
+        "link": "/wiki/Killing_of_Jamar_Clark",
+        "title": "Killing of Jamar Clark",
+        "year": "2015",
+        "state": "Minnesota",
+        "county": "Chippewa County",
+        "type": [
+            "terrorism",
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "389": {
+        "link": "/wiki/Statue_of_Diego_de_Vargas",
+        "title": "Statue of Diego de Vargas",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "arson"
+        ]
+    },
+    "390": {
+        "link": "/wiki/Nightmare_Elk",
+        "title": "Nightmare Elk",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "riot"
+        ]
+    },
+    "391": {
+        "link": "/wiki/Confederate_War_Memorial_(Dallas)",
+        "title": "Confederate War Memorial (Dallas)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "392": {
+        "link": "/wiki/John_Earle_Sullivan",
+        "title": "John Earle Sullivan",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "shooting",
+            "riot"
+        ]
+    },
+    "393": {
+        "link": "/wiki/Statue_of_Jun%C3%ADpero_Serra_(Los_Angeles)",
+        "title": "Statue of Jun\u00edpero Serra (Los Angeles)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Blue Earth County",
+        "type": []
+    },
+    "394": {
+        "link": "/wiki/Norfolk_Confederate_Monument",
+        "title": "Norfolk Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder"
+        ]
+    },
+    "395": {
+        "link": "/wiki/Statue_of_Sam_Davis_(Montgomery_Bell_Academy)",
+        "title": "Statue of Sam Davis (Montgomery Bell Academy)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Martin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "396": {
+        "link": "/wiki/Street_Riders_NYC",
+        "title": "Street Riders NYC",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "397": {
+        "link": "/wiki/United_Confederate_Veterans_Memorial",
+        "title": "United Confederate Veterans Memorial",
+        "year": "2005",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "terrorism",
+            "shooting",
+            "sexual assault",
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "398": {
+        "link": "/wiki/Mechanicsville_High_School",
+        "title": "Mechanicsville High School",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Wright County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "399": {
+        "link": "/wiki/Killing_of_Daunte_Wright",
+        "title": "Killing of Daunte Wright",
+        "year": "2021",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "400": {
+        "link": "/wiki/Dr._Percy_L._Julian_High_School",
+        "title": "Dr. Percy L. Julian High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Le Sueur County",
+        "type": []
+    },
+    "401": {
+        "link": "/wiki/George_Floyd_Square_occupied_protest",
+        "title": "George Floyd Square occupied protest",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "arson",
+            "riot"
+        ]
+    },
+    "402": {
+        "link": "/wiki/Statue_of_Martinus_Theunis_Steyn",
+        "title": "Statue of Martinus Theunis Steyn",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "403": {
+        "link": "/wiki/Wunaamin_Miliwundi_Ranges",
+        "title": "Wunaamin Miliwundi Ranges",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": [
+            "murder"
+        ]
+    },
+    "404": {
+        "link": "/wiki/Bloomington_mosque_bombing",
+        "title": "Dar Al-Farooq Islamic Center",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "terrorism"
+        ]
+    },
+    "405": {
+        "link": "/wiki/Ming_Sen_Shiue",
+        "title": "Ming Sen Shiue",
+        "year": "1975",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "kidnapping",
+            "sexual assault",
+            "murder",
+            "arson",
+            "shooting"
+        ]
+    },
+    "406": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Columbus_State_Community_College)",
+        "title": "Statue of Christopher Columbus (Columbus State Community College)",
+        "year": "1986",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "murder"
+        ]
+    },
+    "407": {
+        "link": "/wiki/School_of_Art,_Architecture_and_Design_(London_Metropolitan_University)",
+        "title": "School of Art, Architecture and Design (London Metropolitan University)",
+        "year": "2012",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "408": {
+        "link": "/wiki/George_Floyd_Law_Enforcement_Trust_and_Integrity_Act",
+        "title": "George Floyd Law Enforcement Trust and Integrity Act",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "409": {
+        "link": "/wiki/Equestrian_statue_of_Mark_Cubbon",
+        "title": "Equestrian statue of Mark Cubbon",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": []
+    },
+    "410": {
+        "link": "/wiki/Rose_City_Justice",
+        "title": "George Floyd protests in Portland, Oregon",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "murder",
+            "arson",
+            "robbery",
+            "riot"
+        ]
+    },
+    "411": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Waterbury,_Connecticut)",
+        "title": "Statue of Christopher Columbus (Waterbury, Connecticut)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Carver County",
+        "type": []
+    },
+    "412": {
+        "link": "/wiki/Sir_Ronald_Fisher_window",
+        "title": "Sir Ronald Fisher window",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Isanti County",
+        "type": []
+    },
+    "413": {
+        "link": "/wiki/Fame_(Confederate_monument)",
+        "title": "Fame (Confederate monument)",
+        "year": "1861",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "shooting",
+            "riot"
+        ]
+    },
+    "414": {
+        "link": "/wiki/Statue_of_Jun%C3%ADpero_Serra_(San_Francisco)",
+        "title": "Statue of Jun\u00edpero Serra (San Francisco)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "415": {
+        "link": "/wiki/Dunham_Massey_Hall_sundial",
+        "title": "Dunham Massey Hall sundial",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "416": {
+        "link": "/wiki/Statue_of_Jun%C3%ADpero_Serra_(Sacramento,_California)",
+        "title": "Statue of Jun\u00edpero Serra (Sacramento, California)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dodge County",
+        "type": []
+    },
+    "417": {
+        "link": "/wiki/When_the_looting_starts,_the_shooting_starts",
+        "title": "When the looting starts, the shooting starts",
+        "year": "1968",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "riot"
+        ]
+    },
+    "418": {
+        "link": "/wiki/List_of_name_changes_due_to_the_George_Floyd_protests",
+        "title": "List of name changes due to the George Floyd protests",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "419": {
+        "link": "/wiki/Statue_of_Charles_Linn",
+        "title": "Statue of Charles Linn",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "420": {
+        "link": "/wiki/2016_Minneapolis_shooting",
+        "title": "2016 Minneapolis shooting",
+        "year": "2016",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "421": {
+        "link": "/wiki/Hans_Sloane",
+        "title": "Hans Sloane",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Freeborn County",
+        "type": [
+            "murder"
+        ]
+    },
+    "422": {
+        "link": "/wiki/Bust_of_Christopher_Columbus_(Detroit)",
+        "title": "Bust of Christopher Columbus (Detroit)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Becker County",
+        "type": []
+    },
+    "423": {
+        "link": "/wiki/George_Floyd_protests_in_Puerto_Rico",
+        "title": "George Floyd protests in Puerto Rico",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "424": {
+        "link": "/wiki/George_Floyd_protests_in_Columbus,_Ohio",
+        "title": "George Floyd protests in Columbus, Ohio",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "425": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Richmond,_Virginia)",
+        "title": "Statue of Christopher Columbus (Richmond, Virginia)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "426": {
+        "link": "/wiki/George_Floyd_protests_in_Kentucky",
+        "title": "George Floyd protests in Kentucky",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Scott County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot"
+        ]
+    },
+    "427": {
+        "link": "/wiki/Statue_of_Christopher_Columbus_(Norwalk,_Connecticut)",
+        "title": "Statue of Christopher Columbus (Norwalk, Connecticut)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "428": {
+        "link": "/wiki/Eastside_High_School_(Camden,_New_Jersey)",
+        "title": "Eastside High School (Camden, New Jersey)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "429": {
+        "link": "/wiki/Capital_punishment_in_Minnesota",
+        "title": "Capital punishment in Minnesota",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "430": {
+        "link": "/wiki/Minnesota_Territorial_Prison",
+        "title": "Minnesota Territorial Prison",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Washington County",
+        "type": [
+            "shooting",
+            "arson"
+        ]
+    },
+    "431": {
+        "link": "/wiki/Killing_of_Justine_Damond",
+        "title": "Killing of Justine Damond",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "432": {
+        "link": "/wiki/Monument_Avenue_10K",
+        "title": "Monument Avenue 10K",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "433": {
+        "link": "/wiki/Murder_of_George_Floyd",
+        "title": "Murder of George Floyd",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "434": {
+        "link": "/wiki/Slave_Auction_Block,_Fredericksburg",
+        "title": "Slave Auction Block, Fredericksburg",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "435": {
+        "link": "/wiki/John_R._Lewis_High_School",
+        "title": "John R. Lewis High School",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Brown County",
+        "type": []
+    },
+    "436": {
+        "link": "/wiki/Physics,_Math,_and_Astronomy_Building",
+        "title": "Physics, Math, and Astronomy Building",
+        "year": "",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    },
+    "437": {
+        "link": "/wiki/Red_Lake_shootings",
+        "title": "Red Lake shootings",
+        "year": "2005",
+        "state": "Minnesota",
+        "county": "Red Lake County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "438": {
+        "link": "/wiki/Athens_Confederate_Monument",
+        "title": "Athens Confederate Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Isanti County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "439": {
+        "link": "/wiki/Robert_E._Lee_Monument_(Charlottesville,_Virginia)",
+        "title": "Robert E. Lee Monument (Charlottesville, Virginia)",
+        "year": "2017",
+        "state": "Minnesota",
+        "county": "Polk County",
+        "type": [
+            "murder",
+            "terrorism",
+            "riot"
+        ]
+    },
+    "440": {
+        "link": "/wiki/George_Floyd_mural_(Portland,_Oregon)",
+        "title": "George Floyd mural (Portland, Oregon)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "441": {
+        "link": "/wiki/Statue_of_George_Washington_(Portland,_Oregon)",
+        "title": "Statue of George Washington (Portland, Oregon)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": []
+    },
+    "442": {
+        "link": "/wiki/Denton_Confederate_Soldier_Monument",
+        "title": "Denton Confederate Soldier Monument",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Dakota County",
+        "type": [
+            "murder"
+        ]
+    },
+    "443": {
+        "link": "/wiki/George_Floyd_protests_in_New_York_(state)",
+        "title": "George Floyd protests in New York (state)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Crow Wing County",
+        "type": [
+            "murder",
+            "shooting",
+            "arson",
+            "riot"
+        ]
+    },
+    "444": {
+        "link": "/wiki/Aunt_Jemima",
+        "title": "Aunt Jemima",
+        "year": "1890",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "445": {
+        "link": "/wiki/Darnella_Frazier",
+        "title": "Darnella Frazier",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "446": {
+        "link": "/wiki/Our_Confederate_Soldiers",
+        "title": "Our Confederate Soldiers",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": []
+    },
+    "447": {
+        "link": "/wiki/Johnny_Keller",
+        "title": "William Williams (murderer)",
+        "year": "1906",
+        "state": "Minnesota",
+        "county": "Ramsey County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "448": {
+        "link": "/wiki/Robert_E._Lee_Memorial_(Roanoke,_Virginia)",
+        "title": "Robert E. Lee Memorial (Roanoke, Virginia)",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "Hennepin County",
+        "type": [
+            "murder"
+        ]
+    },
+    "449": {
+        "link": "/wiki/George_Sitts",
+        "title": "George Sitts",
+        "year": "1945",
+        "state": "Minnesota",
+        "county": "Saint Louis County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "450": {
+        "link": "/wiki/Statue_of_Robert_E._Lee_(Valentine)",
+        "title": "Statue of Robert E. Lee (Valentine)",
+        "year": "",
+        "state": "Minnesota",
+        "county": "Stearns County",
+        "type": []
+    },
+    "451": {
+        "link": "/wiki/2020_Rhode_Island_Question_1",
+        "title": "2020 Rhode Island Question 1",
+        "year": "2020",
+        "state": "Minnesota",
+        "county": "",
+        "type": []
+    }
+}

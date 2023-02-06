@@ -1,0 +1,530 @@
+{
+    "0": {
+        "link": "/wiki/Great_Basin_Murders",
+        "title": "Great Basin Murders",
+        "year": "1991",
+        "state": "Idaho",
+        "county": "Lemhi County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "1": {
+        "link": "/wiki/Keith_Wells",
+        "title": "Keith Wells",
+        "year": "1990",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "arson"
+        ]
+    },
+    "2": {
+        "link": "/wiki/Ernest_Hemingway",
+        "title": "Ernest Hemingway",
+        "year": "1961",
+        "state": "Idaho",
+        "county": "Blaine County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "3": {
+        "link": "/wiki/Kidnapping_of_Hannah_Anderson",
+        "title": "Kidnapping of Hannah Anderson",
+        "year": "2013",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "arson",
+            "shooting"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Ted_Trueblood",
+        "title": "Ted Trueblood",
+        "year": "1982",
+        "state": "Idaho",
+        "county": "Canyon County",
+        "type": [
+            "murder"
+        ]
+    },
+    "5": {
+        "link": "/wiki/Neale_Stadium",
+        "title": "Neale Stadium",
+        "year": "",
+        "state": "Idaho",
+        "county": "Latah County",
+        "type": [
+            "arson"
+        ]
+    },
+    "6": {
+        "link": "/wiki/Diane_Johnson_(murder_victim)",
+        "title": "Murder of Diane and Alan Scott Johnson",
+        "year": "2003",
+        "state": "Idaho",
+        "county": "Blaine County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "7": {
+        "link": "/wiki/1899_Coeur_d%27Alene_labor_confrontation",
+        "title": "1899 Coeur d'Alene labor confrontation",
+        "year": "1899",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "riot"
+        ]
+    },
+    "8": {
+        "link": "/wiki/Donald_B._Anderson",
+        "title": "Donald B. Anderson",
+        "year": "1956",
+        "state": "Idaho",
+        "county": "Canyon County",
+        "type": [
+            "murder"
+        ]
+    },
+    "9": {
+        "link": "/wiki/Albert_Horsley",
+        "title": "Albert Horsley",
+        "year": "1954",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "robbery"
+        ]
+    },
+    "10": {
+        "link": "/wiki/Frank_Steunenberg",
+        "title": "Frank Steunenberg",
+        "year": "1905",
+        "state": "Idaho",
+        "county": "Canyon County",
+        "type": [
+            "murder"
+        ]
+    },
+    "11": {
+        "link": "/wiki/Bunker_Hill_Mining_Company",
+        "title": "Bunker Hill Mining Company",
+        "year": "",
+        "state": "Idaho",
+        "county": "Shoshone County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "12": {
+        "link": "/wiki/George_Floyd_protests_in_Idaho",
+        "title": "George Floyd protests in Idaho",
+        "year": "2020",
+        "state": "Idaho",
+        "county": "Latah County",
+        "type": [
+            "murder",
+            "riot",
+            "robbery"
+        ]
+    },
+    "13": {
+        "link": "/wiki/Murder_of_Diane_and_Alan_Scott_Johnson",
+        "title": "Murder of Diane and Alan Scott Johnson",
+        "year": "2003",
+        "state": "Idaho",
+        "county": "Blaine County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "14": {
+        "link": "/wiki/James_DiMaggio",
+        "title": "Kidnapping of Hannah Anderson",
+        "year": "2013",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "arson",
+            "shooting"
+        ]
+    },
+    "15": {
+        "link": "/wiki/Edward_Dexter_Holbrook",
+        "title": "Edward Dexter Holbrook",
+        "year": "1870",
+        "state": "Idaho",
+        "county": "Boise County",
+        "type": [
+            "murder"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Dylan_Groene",
+        "title": "Joseph Edward Duncan",
+        "year": "2021",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "sexual assault",
+            "robbery",
+            "assault"
+        ]
+    },
+    "17": {
+        "link": "/wiki/Robin_Lee_Row",
+        "title": "Robin Lee Row",
+        "year": "1992",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "18": {
+        "link": "/wiki/Thomas_Eugene_Creech",
+        "title": "Thomas Eugene Creech",
+        "year": "1974",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "robbery",
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "19": {
+        "link": "/wiki/2022_Coeur_d%27Alene_Patriot_Front_arrests",
+        "title": "Patriot Front",
+        "year": "2022",
+        "state": "Idaho",
+        "county": "",
+        "type": [
+            "riot"
+        ]
+    },
+    "20": {
+        "link": "/wiki/Joseph_Henry_Loveless",
+        "title": "Joseph Henry Loveless",
+        "year": "1916",
+        "state": "Idaho",
+        "county": "Clark County",
+        "type": [
+            "murder"
+        ]
+    },
+    "21": {
+        "link": "/wiki/Tabitha_Row",
+        "title": "Robin Lee Row",
+        "year": "1992",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "22": {
+        "link": "/wiki/Clay_V._Spear",
+        "title": "Clay V. Spear",
+        "year": "",
+        "state": "Idaho",
+        "county": "Elmore County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "23": {
+        "link": "/wiki/Brandon_Hixon",
+        "title": "Brandon Hixon",
+        "year": "2018",
+        "state": "Idaho",
+        "county": "Canyon County",
+        "type": []
+    },
+    "24": {
+        "link": "/wiki/Randy_Row",
+        "title": "Robin Lee Row",
+        "year": "1992",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "25": {
+        "link": "/wiki/Alan_Scott_Johnson",
+        "title": "Murder of Diane and Alan Scott Johnson",
+        "year": "2003",
+        "state": "Idaho",
+        "county": "Blaine County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "26": {
+        "link": "/wiki/Killings_of_Tylee_Ryan_and_J._J._Vallow",
+        "title": "Killings of Tylee Ryan and J. J. Vallow",
+        "year": "2019",
+        "state": "Idaho",
+        "county": "Madison County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "shooting"
+        ]
+    },
+    "27": {
+        "link": "/wiki/Boise_Towne_Square_shooting",
+        "title": "Boise Towne Square",
+        "year": "",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": []
+    },
+    "28": {
+        "link": "/wiki/Paul_Ezra_Rhoades",
+        "title": "Paul Ezra Rhoades",
+        "year": "2011",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "shooting",
+            "sexual assault",
+            "robbery"
+        ]
+    },
+    "29": {
+        "link": "/wiki/Joseph_Edward_Duncan",
+        "title": "Joseph Edward Duncan",
+        "year": "2021",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "sexual assault",
+            "robbery",
+            "assault"
+        ]
+    },
+    "30": {
+        "link": "/wiki/Clark_massacre",
+        "title": "Clark massacre",
+        "year": "1851",
+        "state": "Idaho",
+        "county": "",
+        "type": [
+            "mass murder",
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "31": {
+        "link": "/wiki/Lyda_Southard",
+        "title": "Lyda Southard",
+        "year": "1958",
+        "state": "Idaho",
+        "county": "Twin Falls County",
+        "type": [
+            "murder"
+        ]
+    },
+    "32": {
+        "link": "/wiki/Lynette_Culver",
+        "title": "Ted Bundy",
+        "year": "1989",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "sexual assault",
+            "assault"
+        ]
+    },
+    "33": {
+        "link": "/wiki/Murder_of_Cassie_Jo_Stoddart",
+        "title": "Murder of Cassie Jo Stoddart",
+        "year": "2006",
+        "state": "Idaho",
+        "county": "Bannock County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "34": {
+        "link": "/wiki/Sarah_Marie_Johnson",
+        "title": "Murder of Diane and Alan Scott Johnson",
+        "year": "2003",
+        "state": "Idaho",
+        "county": "Blaine County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "35": {
+        "link": "/wiki/Deep_Creek_murders",
+        "title": "Deep Creek murders",
+        "year": "1896",
+        "state": "Idaho",
+        "county": "Twin Falls County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "36": {
+        "link": "/wiki/Justin_Eilers",
+        "title": "Justin Eilers",
+        "year": "2008",
+        "state": "Idaho",
+        "county": "Canyon County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "37": {
+        "link": "/wiki/Joshua_Row",
+        "title": "Robin Lee Row",
+        "year": "1992",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "murder",
+            "arson"
+        ]
+    },
+    "38": {
+        "link": "/wiki/1892_Coeur_d%27Alene_labor_strike",
+        "title": "1892 Coeur d'Alene labor strike",
+        "year": "1892",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "39": {
+        "link": "/wiki/Diamondfield_Jack",
+        "title": "Diamondfield Jack",
+        "year": "1863",
+        "state": "Idaho",
+        "county": "Owyhee County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "40": {
+        "link": "/wiki/Jacob_Bergquist",
+        "title": "Boise Towne Square",
+        "year": "",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": []
+    },
+    "41": {
+        "link": "/wiki/Lewis%E2%80%93Clark_Valley_murders",
+        "title": "Lewis\u2013Clark Valley murders",
+        "year": "1979",
+        "state": "Idaho",
+        "county": "Nez Perce County",
+        "type": [
+            "kidnapping",
+            "murder"
+        ]
+    },
+    "42": {
+        "link": "/wiki/John_H._Hays",
+        "title": "John H. Hays",
+        "year": "1904",
+        "state": "Idaho",
+        "county": "Latah County",
+        "type": [
+            "murder",
+            "assault",
+            "shooting"
+        ]
+    },
+    "43": {
+        "link": "/wiki/Rigby_Middle_School_shooting",
+        "title": "Jefferson County School District 251",
+        "year": "",
+        "state": "Idaho",
+        "county": "Jefferson County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "44": {
+        "link": "/wiki/Murder_of_Angie_Dodge",
+        "title": "Murder of Angie Dodge",
+        "year": "1996",
+        "state": "Idaho",
+        "county": "Bonneville County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "45": {
+        "link": "/wiki/Coeur_d%27Alene_miners%27_dispute",
+        "title": "Coeur d'Alene miners' dispute",
+        "year": "",
+        "state": "Idaho",
+        "county": "Kootenai County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "46": {
+        "link": "/wiki/James_Edward_Wood",
+        "title": "James Edward Wood",
+        "year": "2004",
+        "state": "Idaho",
+        "county": "Ada County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "shooting",
+            "sexual assault",
+            "robbery",
+            "assault"
+        ]
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "0": {
+        "link": "/wiki/Tom_Horn",
+        "title": "Tom Horn",
+        "year": "1903",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "1": {
+        "link": "/wiki/Great_Basin_Murders",
+        "title": "Great Basin Murders",
+        "year": "1991",
+        "state": "Wyoming",
+        "county": "Fremont County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "2": {
+        "link": "/wiki/Gabby_Petito",
+        "title": "Killing of Gabby Petito",
+        "year": "2021",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "murder",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "3": {
+        "link": "/wiki/Wyoming_State_Penitentiary",
+        "title": "Wyoming State Penitentiary",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Carbon County",
+        "type": [
+            "murder"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Earl_Durand",
+        "title": "Earl Durand",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Park County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "5": {
+        "link": "/wiki/Mark_Hopkinson",
+        "title": "Mark Hopkinson",
+        "year": "1977",
+        "state": "Wyoming",
+        "county": "",
+        "type": [
+            "murder",
+            "mass murder"
+        ]
+    },
+    "6": {
+        "link": "/wiki/Killing_of_Gabby_Petito",
+        "title": "Killing of Gabby Petito",
+        "year": "2021",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "murder",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "7": {
+        "link": "/wiki/Conquering_Bear",
+        "title": "Conquering Bear",
+        "year": "1854",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "mass murder"
+        ]
+    },
+    "8": {
+        "link": "/wiki/Steve_Long",
+        "title": "Steve Long",
+        "year": "1868",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "9": {
+        "link": "/wiki/Richard_Gilkey",
+        "title": "Richard Gilkey",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Teton County",
+        "type": []
+    },
+    "10": {
+        "link": "/wiki/Henry_Ruhl",
+        "title": "Henry Ruhl",
+        "year": "1943",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "arson"
+        ]
+    },
+    "11": {
+        "link": "/wiki/Ellen_Watson",
+        "title": "Ellen Watson",
+        "year": "1889",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "murder"
+        ]
+    },
+    "12": {
+        "link": "/wiki/Macalia_Blackburn",
+        "title": "Andrew John Yellowbear Jr.",
+        "year": "2004",
+        "state": "Wyoming",
+        "county": "Hot Springs County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "13": {
+        "link": "/wiki/James_Averell",
+        "title": "Ellen Watson",
+        "year": "1889",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "murder"
+        ]
+    },
+    "14": {
+        "link": "/wiki/Bear_River_City,_Wyoming",
+        "title": "Bear River City, Wyoming",
+        "year": "1868",
+        "state": "Wyoming",
+        "county": "Uinta County",
+        "type": [
+            "murder",
+            "riot",
+            "shooting",
+            "assault"
+        ]
+    },
+    "15": {
+        "link": "/wiki/Mother_Featherlegs",
+        "title": "Mother Featherlegs",
+        "year": "1879",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Gary_Hemming",
+        "title": "Gary Hemming",
+        "year": "1969",
+        "state": "Wyoming",
+        "county": "Teton County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "17": {
+        "link": "/wiki/Wilcox_train_robbery",
+        "title": "Wilcox train robbery",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "robbery"
+        ]
+    },
+    "18": {
+        "link": "/wiki/Matthew_Shepard",
+        "title": "Matthew Shepard",
+        "year": "1998",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "19": {
+        "link": "/wiki/George_Floyd_protests_in_Wyoming",
+        "title": "George Floyd protests in Wyoming",
+        "year": "2020",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "20": {
+        "link": "/wiki/Big_Nose_George",
+        "title": "Big Nose George",
+        "year": "1881",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "21": {
+        "link": "/wiki/Murder_of_Matthew_Shepard",
+        "title": "Matthew Shepard",
+        "year": "1998",
+        "state": "Wyoming",
+        "county": "Albany County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "22": {
+        "link": "/wiki/Starkweather/Fugate_murders",
+        "title": "Charles Starkweather",
+        "year": "1959",
+        "state": "Wyoming",
+        "county": "Lincoln County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "23": {
+        "link": "/wiki/Capital_punishment_in_Wyoming",
+        "title": "Capital punishment in Wyoming",
+        "year": "",
+        "state": "Wyoming",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "24": {
+        "link": "/wiki/Robert_Joseph_Silveria_Jr.",
+        "title": "Robert Joseph Silveria Jr.",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder"
+        ]
+    },
+    "25": {
+        "link": "/wiki/Dale_Wayne_Eaton",
+        "title": "Lil' Miss murder",
+        "year": "1988",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "26": {
+        "link": "/wiki/Don_Kemp_(victim)",
+        "title": "Death of Don Kemp",
+        "year": "1982",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "27": {
+        "link": "/wiki/Almon_W._Babbitt",
+        "title": "Almon W. Babbitt",
+        "year": "",
+        "state": "Wyoming",
+        "county": "Laramie County",
+        "type": [
+            "murder"
+        ]
+    },
+    "28": {
+        "link": "/wiki/Marcela_Hope_Yellowbear",
+        "title": "Andrew John Yellowbear Jr.",
+        "year": "2004",
+        "state": "Wyoming",
+        "county": "Hot Springs County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "29": {
+        "link": "/wiki/Paul_Ranous_Greever",
+        "title": "Paul Ranous Greever",
+        "year": "1943",
+        "state": "Wyoming",
+        "county": "Park County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "30": {
+        "link": "/wiki/Castration_serial_murders",
+        "title": "Castration serial murders",
+        "year": "1989",
+        "state": "Wyoming",
+        "county": "Lincoln County",
+        "type": [
+            "murder",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "31": {
+        "link": "/wiki/Larry_Clapp",
+        "title": "Larry Clapp",
+        "year": "2013",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "murder"
+        ]
+    },
+    "32": {
+        "link": "/wiki/Rock_Springs_massacre",
+        "title": "Rock Springs massacre",
+        "year": "1885",
+        "state": "Wyoming",
+        "county": "Sweetwater County",
+        "type": [
+            "murder",
+            "riot",
+            "mass murder"
+        ]
+    },
+    "33": {
+        "link": "/wiki/List_of_people_executed_in_Wyoming",
+        "title": "List of people executed in Wyoming",
+        "year": "",
+        "state": "Wyoming",
+        "county": "",
+        "type": []
+    },
+    "34": {
+        "link": "/wiki/Andrew_John_Yellowbear_Jr.",
+        "title": "Andrew John Yellowbear Jr.",
+        "year": "2004",
+        "state": "Wyoming",
+        "county": "Hot Springs County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "35": {
+        "link": "/wiki/Death_of_Allen_Ross",
+        "title": "Death of Allen Ross",
+        "year": "1995",
+        "state": "Wyoming",
+        "county": "Big Horn County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "36": {
+        "link": "/wiki/Andrew_Pixley",
+        "title": "Andrew Pixley",
+        "year": "1964",
+        "state": "Wyoming",
+        "county": "Teton County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "37": {
+        "link": "/wiki/Murder_in_Wyoming_law",
+        "title": "Murder in Wyoming law",
+        "year": "2020",
+        "state": "Wyoming",
+        "county": "",
+        "type": [
+            "kidnapping",
+            "murder",
+            "robbery",
+            "arson",
+            "assault"
+        ]
+    },
+    "38": {
+        "link": "/wiki/Lisa_Marie_Kimmell",
+        "title": "Lil' Miss murder",
+        "year": "1988",
+        "state": "Wyoming",
+        "county": "Natrona County",
+        "type": [
+            "sexual assault",
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "39": {
+        "link": "/wiki/Spring_Creek_raid",
+        "title": "Spring Creek raid",
+        "year": "1909",
+        "state": "Wyoming",
+        "county": "Fremont County",
+        "type": [
+            "murder",
+            "shooting",
+            "arson"
+        ]
+    }
+}

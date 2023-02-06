@@ -1,0 +1,1427 @@
+{
+    "0": {
+        "link": "/wiki/Stede_Bonnet",
+        "title": "Stede Bonnet",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "1": {
+        "link": "/wiki/Capital_punishment_in_South_Carolina",
+        "title": "Capital punishment in South Carolina",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "2": {
+        "link": "/wiki/Charleston_Syllabus",
+        "title": "Charleston Syllabus",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "3": {
+        "link": "/wiki/Terry_Rosen",
+        "title": "Terry Rosen",
+        "year": "1999",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Emanuel_African_Methodist_Episcopal_Church",
+        "title": "Emanuel African Methodist Episcopal Church",
+        "year": "1818",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "5": {
+        "link": "/wiki/Isaac_Woodard",
+        "title": "Isaac Woodard",
+        "year": "1992",
+        "state": "South Carolina",
+        "county": "Richland County",
+        "type": []
+    },
+    "6": {
+        "link": "/wiki/Burnette_Chapel_shooting",
+        "title": "Burnette Chapel shooting",
+        "year": "2017",
+        "state": "South Carolina",
+        "county": "Kershaw County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "7": {
+        "link": "/wiki/Columbiana_Centre_shooting",
+        "title": "Columbiana Centre shooting",
+        "year": "2022",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "8": {
+        "link": "/wiki/Benjamin_Huger_(American_Revolution)",
+        "title": "Benjamin Huger (American Revolution)",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Georgetown County",
+        "type": [
+            "murder"
+        ]
+    },
+    "9": {
+        "link": "/wiki/Capture_of_Columbia",
+        "title": "Capture of Columbia",
+        "year": "1865",
+        "state": "South Carolina",
+        "county": "Greenville County",
+        "type": []
+    },
+    "10": {
+        "link": "/wiki/Samantha_Josephson",
+        "title": "Murder of Samantha Josephson",
+        "year": "2019",
+        "state": "South Carolina",
+        "county": "Clarendon County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "11": {
+        "link": "/wiki/Killing_of_Walter_Scott",
+        "title": "Killing of Walter Scott",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "12": {
+        "link": "/wiki/Mary_Lynn_Witherspoon",
+        "title": "Murder of Mary Lynn Witherspoon",
+        "year": "2003",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "13": {
+        "link": "/wiki/Phillip_Adams_(American_football)",
+        "title": "Phillip Adams (American football)",
+        "year": "2021",
+        "state": "South Carolina",
+        "county": "Sumter County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "14": {
+        "link": "/wiki/King_Hagler",
+        "title": "King Hagler",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Kershaw County",
+        "type": [
+            "murder"
+        ]
+    },
+    "15": {
+        "link": "/wiki/Robert_John_Simmons",
+        "title": "Robert John Simmons",
+        "year": "1863",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Amy_Spain",
+        "title": "Amy Spain",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Darlington County",
+        "type": [
+            "robbery"
+        ]
+    },
+    "17": {
+        "link": "/wiki/Lynching_of_Anthony_Crawford",
+        "title": "Lynching of Anthony Crawford",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Abbeville County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "18": {
+        "link": "/wiki/Charleston_church_shooting",
+        "title": "Charleston church shooting",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "19": {
+        "link": "/wiki/Horst_G%C3%BCnther",
+        "title": "Horst G\u00fcnther",
+        "year": "1943",
+        "state": "South Carolina",
+        "county": "Williamsburg County",
+        "type": [
+            "murder"
+        ]
+    },
+    "20": {
+        "link": "/wiki/Murder_of_Samantha_Josephson",
+        "title": "Murder of Samantha Josephson",
+        "year": "2019",
+        "state": "South Carolina",
+        "county": "Clarendon County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "21": {
+        "link": "/wiki/Susan_Smith",
+        "title": "Susan Smith",
+        "year": "1989",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "22": {
+        "link": "/wiki/Joseph_Gardner_(murderer)",
+        "title": "Joseph Gardner (murderer)",
+        "year": "2008",
+        "state": "South Carolina",
+        "county": "Florence County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "23": {
+        "link": "/wiki/Murder_of_Brittanee_Drexel",
+        "title": "Murder of Brittanee Drexel",
+        "year": "2009",
+        "state": "South Carolina",
+        "county": "Horry County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "24": {
+        "link": "/wiki/Shari_Smith",
+        "title": "Larry Gene Bell",
+        "year": "1996",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "25": {
+        "link": "/wiki/James_Terry_Roach",
+        "title": "James Terry Roach",
+        "year": "1986",
+        "state": "South Carolina",
+        "county": "Sumter County",
+        "type": [
+            "kidnapping",
+            "shooting",
+            "sexual assault",
+            "murder",
+            "robbery"
+        ]
+    },
+    "26": {
+        "link": "/wiki/James_Neil_Tucker",
+        "title": "James Neil Tucker",
+        "year": "2004",
+        "state": "South Carolina",
+        "county": "Calhoun County",
+        "type": [
+            "murder",
+            "robbery",
+            "sexual assault"
+        ]
+    },
+    "27": {
+        "link": "/wiki/Benjamin_F._Randolph",
+        "title": "Benjamin F. Randolph",
+        "year": "1868",
+        "state": "South Carolina",
+        "county": "Spartanburg County",
+        "type": [
+            "murder"
+        ]
+    },
+    "28": {
+        "link": "/wiki/Larry_Gene_Bell",
+        "title": "Larry Gene Bell",
+        "year": "1996",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "29": {
+        "link": "/wiki/Murders_of_Alex_Hopps_and_James_Green",
+        "title": "Murders of Alex Hopps and James Green",
+        "year": "1991",
+        "state": "South Carolina",
+        "county": "Spartanburg County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "30": {
+        "link": "/wiki/Mary_Emma_Thames",
+        "title": "George Stinney",
+        "year": "1944",
+        "state": "South Carolina",
+        "county": "Clarendon County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "31": {
+        "link": "/wiki/Hastings_Arthur_Wise",
+        "title": "Hastings Arthur Wise",
+        "year": "1997",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "mass murder",
+            "robbery"
+        ]
+    },
+    "32": {
+        "link": "/wiki/Michael_Christie_(golfer)",
+        "title": "Michael Christie (golfer)",
+        "year": "2004",
+        "state": "South Carolina",
+        "county": "Greenville County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "33": {
+        "link": "/wiki/Assassination_of_Wade_Perrin",
+        "title": "Assassination of Wade Perrin",
+        "year": "1870",
+        "state": "South Carolina",
+        "county": "Laurens County",
+        "type": [
+            "murder",
+            "shooting",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "34": {
+        "link": "/wiki/Richard_Longworth_(murderer)",
+        "title": "Murders of Alex Hopps and James Green",
+        "year": "1991",
+        "state": "South Carolina",
+        "county": "Spartanburg County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "35": {
+        "link": "/wiki/Al_Parish",
+        "title": "Al Parish",
+        "year": "",
+        "state": "South Carolina",
+        "county": "",
+        "type": []
+    },
+    "36": {
+        "link": "/wiki/Virgil_Stallcup",
+        "title": "Virgil Stallcup",
+        "year": "1989",
+        "state": "South Carolina",
+        "county": "Greenville County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "37": {
+        "link": "/wiki/Disappearance_of_Heather_Elvis",
+        "title": "Disappearance of Heather Elvis",
+        "year": "2016",
+        "state": "South Carolina",
+        "county": "Horry County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "sexual assault"
+        ]
+    },
+    "38": {
+        "link": "/wiki/Marion_Moise",
+        "title": "Marion Moise",
+        "year": "",
+        "state": "South Carolina",
+        "county": "",
+        "type": [
+            "shooting"
+        ]
+    },
+    "39": {
+        "link": "/wiki/George_Floyd_protests_in_South_Carolina",
+        "title": "George Floyd protests in South Carolina",
+        "year": "2020",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "arson",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "40": {
+        "link": "/wiki/Trial_of_Alex_Murdaugh",
+        "title": "Trial of Alex Murdaugh",
+        "year": "2023",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "41": {
+        "link": "/wiki/Ellenton_massacre",
+        "title": "Ellenton massacre",
+        "year": "1876",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "mass murder",
+            "riot"
+        ]
+    },
+    "42": {
+        "link": "/wiki/Gullah_Jack",
+        "title": "Gullah Jack",
+        "year": "1822",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder"
+        ]
+    },
+    "43": {
+        "link": "/wiki/Lynching_in_Florence_County,_South_Carolina",
+        "title": "Lynching in Florence County, South Carolina",
+        "year": "1921",
+        "state": "South Carolina",
+        "county": "Florence County",
+        "type": [
+            "murder",
+            "riot"
+        ]
+    },
+    "44": {
+        "link": "/wiki/Lynching_of_Willie_Earle",
+        "title": "Lynching of Willie Earle",
+        "year": "1947",
+        "state": "South Carolina",
+        "county": "Greenville County",
+        "type": [
+            "murder"
+        ]
+    },
+    "45": {
+        "link": "/wiki/Debra_Helmick",
+        "title": "Larry Gene Bell",
+        "year": "1996",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "46": {
+        "link": "/wiki/Killing_of_Zachary_Hammond",
+        "title": "Killing of Zachary Hammond",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Oconee County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "47": {
+        "link": "/wiki/Shafer_v._South_Carolina",
+        "title": "Shafer v. South Carolina",
+        "year": "1997",
+        "state": "South Carolina",
+        "county": "Colleton County",
+        "type": [
+            "murder"
+        ]
+    },
+    "48": {
+        "link": "/wiki/James_Martin_(South_Carolina_politician)",
+        "title": "James Martin (South Carolina politician)",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Abbeville County",
+        "type": [
+            "murder"
+        ]
+    },
+    "49": {
+        "link": "/wiki/James_Earl_Reed",
+        "title": "James Earl Reed",
+        "year": "2008",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "50": {
+        "link": "/wiki/Thomas_and_Meeks_Griffin",
+        "title": "Thomas and Meeks Griffin",
+        "year": "1915",
+        "state": "South Carolina",
+        "county": "Chester County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "51": {
+        "link": "/wiki/Blackville%E2%80%93Hilda_High_School_shooting",
+        "title": "Blackville\u2013Hilda High School shooting",
+        "year": "1995",
+        "state": "South Carolina",
+        "county": "Barnwell County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "52": {
+        "link": "/wiki/George_Jeffcoat",
+        "title": "George Jeffcoat",
+        "year": "1978",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "53": {
+        "link": "/wiki/List_of_people_executed_in_South_Carolina",
+        "title": "List of people executed in South Carolina",
+        "year": "",
+        "state": "South Carolina",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "54": {
+        "link": "/wiki/Modern_display_of_the_Confederate_battle_flag",
+        "title": "Modern display of the Confederate battle flag",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "55": {
+        "link": "/wiki/Shawn_Paul_Humphries",
+        "title": "Shawn Paul Humphries",
+        "year": "1994",
+        "state": "South Carolina",
+        "county": "Greenville County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "sexual assault"
+        ]
+    },
+    "56": {
+        "link": "/wiki/Townville_Elementary_School_shooting",
+        "title": "Townville Elementary School shooting",
+        "year": "2016",
+        "state": "South Carolina",
+        "county": "Anderson County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "57": {
+        "link": "/wiki/South_Carolina_v._Gathers",
+        "title": "South Carolina v. Gathers",
+        "year": "",
+        "state": "South Carolina",
+        "county": "",
+        "type": []
+    },
+    "58": {
+        "link": "/wiki/Simon_P._Coker",
+        "title": "Simon P. Coker",
+        "year": "1876",
+        "state": "South Carolina",
+        "county": "Barnwell County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "59": {
+        "link": "/wiki/Timothy_Jones_Jr.",
+        "title": "Timothy Jones Jr.",
+        "year": "2014",
+        "state": "South Carolina",
+        "county": "Lexington County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "60": {
+        "link": "/wiki/William_Pierce_(serial_killer)",
+        "title": "William Pierce (serial killer)",
+        "year": "2020",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "kidnapping",
+            "murder",
+            "arson",
+            "robbery",
+            "assault"
+        ]
+    },
+    "61": {
+        "link": "/wiki/Lynching_of_Frazier_B._Baker_and_Julia_Baker",
+        "title": "Lynching of Frazier B. Baker and Julia Baker",
+        "year": "1898",
+        "state": "South Carolina",
+        "county": "Florence County",
+        "type": [
+            "murder"
+        ]
+    },
+    "62": {
+        "link": "/wiki/Reggie_Gross",
+        "title": "Reggie Gross",
+        "year": "1989",
+        "state": "South Carolina",
+        "county": "Edgefield County",
+        "type": [
+            "murder"
+        ]
+    },
+    "63": {
+        "link": "/wiki/Murder_of_Betty_Gardner",
+        "title": "Murder of Betty Gardner",
+        "year": "1978",
+        "state": "South Carolina",
+        "county": "Beaufort County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "64": {
+        "link": "/wiki/Solomon_Dill",
+        "title": "Solomon Dill",
+        "year": "1868",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "65": {
+        "link": "/wiki/Donald_Henry_Gaskins",
+        "title": "Donald Henry Gaskins",
+        "year": "1991",
+        "state": "South Carolina",
+        "county": "Colleton County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "66": {
+        "link": "/wiki/Murders_of_Pamela_Buckley_and_James_Freund",
+        "title": "Murders of Pamela Buckley and James Freund",
+        "year": "1976",
+        "state": "South Carolina",
+        "county": "Sumter County",
+        "type": [
+            "murder"
+        ]
+    },
+    "67": {
+        "link": "/wiki/King_Yanabe_Yalangway",
+        "title": "King Yanabe Yalangway",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder"
+        ]
+    },
+    "68": {
+        "link": "/wiki/Orangeburg_massacre",
+        "title": "Orangeburg massacre",
+        "year": "1968",
+        "state": "South Carolina",
+        "county": "Orangeburg County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "69": {
+        "link": "/wiki/Reinaldo_Rivera",
+        "title": "Reinaldo Rivera",
+        "year": "1999",
+        "state": "South Carolina",
+        "county": "Beaufort County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "70": {
+        "link": "/wiki/George_Stinney",
+        "title": "George Stinney",
+        "year": "1944",
+        "state": "South Carolina",
+        "county": "Clarendon County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "71": {
+        "link": "/wiki/Mount_Zion_AME_Church_(Greeleyville,_South_Carolina)",
+        "title": "Mount Zion AME Church (Greeleyville, South Carolina)",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Williamsburg County",
+        "type": [
+            "arson"
+        ]
+    },
+    "72": {
+        "link": "/wiki/Charleston_riot_of_1919",
+        "title": "Charleston riot of 1919",
+        "year": "1919",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault",
+            "riot"
+        ]
+    },
+    "73": {
+        "link": "/wiki/John_Arnold_(murderer)",
+        "title": "Murder of Betty Gardner",
+        "year": "1978",
+        "state": "South Carolina",
+        "county": "Beaufort County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "74": {
+        "link": "/wiki/Annie_Tahan",
+        "title": "Cold Case Files",
+        "year": "",
+        "state": "South Carolina",
+        "county": "",
+        "type": [
+            "murder",
+            "terrorism"
+        ]
+    },
+    "75": {
+        "link": "/wiki/Murder_of_Mark_Coates",
+        "title": "Interstate 95 in South Carolina",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Dillon County",
+        "type": []
+    },
+    "76": {
+        "link": "/wiki/David_Ramsay_(historian)",
+        "title": "David Ramsay (historian)",
+        "year": "1815",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder"
+        ]
+    },
+    "77": {
+        "link": "/wiki/Florence,_South_Carolina_shooting",
+        "title": "Florence, South Carolina shooting",
+        "year": "2018",
+        "state": "South Carolina",
+        "county": "Florence County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "78": {
+        "link": "/wiki/Jim_Duncan_(cornerback)",
+        "title": "Jim Duncan (cornerback)",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Lancaster County",
+        "type": [
+            "murder"
+        ]
+    },
+    "79": {
+        "link": "/wiki/Joseph_Carl_Shaw",
+        "title": "Joseph Carl Shaw",
+        "year": "1985",
+        "state": "South Carolina",
+        "county": "Richland County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping",
+            "sexual assault"
+        ]
+    },
+    "80": {
+        "link": "/wiki/Oakland_Elementary_School_shooting",
+        "title": "Oakland Elementary School shooting",
+        "year": "1988",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "mass murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "81": {
+        "link": "/wiki/David_Mark_Hill",
+        "title": "David Mark Hill",
+        "year": "1996",
+        "state": "South Carolina",
+        "county": "",
+        "type": [
+            "murder"
+        ]
+    },
+    "82": {
+        "link": "/wiki/Robert_Gould_Shaw",
+        "title": "Robert Gould Shaw",
+        "year": "1863",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "riot",
+            "sexual assault"
+        ]
+    },
+    "83": {
+        "link": "/wiki/Betty_Gardner",
+        "title": "Murder of Betty Gardner",
+        "year": "1978",
+        "state": "South Carolina",
+        "county": "Beaufort County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "84": {
+        "link": "/wiki/Phoenix_election_riot",
+        "title": "Phoenix election riot",
+        "year": "1898",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "murder",
+            "terrorism",
+            "riot"
+        ]
+    },
+    "85": {
+        "link": "/wiki/Betty_June_Binnicker",
+        "title": "George Stinney",
+        "year": "1944",
+        "state": "South Carolina",
+        "county": "Clarendon County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "86": {
+        "link": "/wiki/Quincy_Allen",
+        "title": "Quincy Allen",
+        "year": "2009",
+        "state": "South Carolina",
+        "county": "",
+        "type": [
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "87": {
+        "link": "/wiki/Walter_Lamar_Scott",
+        "title": "Killing of Walter Scott",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "88": {
+        "link": "/wiki/Murder_of_Mary_Lynn_Witherspoon",
+        "title": "Murder of Mary Lynn Witherspoon",
+        "year": "2003",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "89": {
+        "link": "/wiki/Joseph_Ernest_Atkins",
+        "title": "Joseph Ernest Atkins",
+        "year": "1999",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting",
+            "assault"
+        ]
+    },
+    "90": {
+        "link": "/wiki/Skipper_v._South_Carolina",
+        "title": "Skipper v. South Carolina",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Chesterfield County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "91": {
+        "link": "/wiki/Narciso_Gener_Gonzales",
+        "title": "Narciso Gener Gonzales",
+        "year": "1903",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "92": {
+        "link": "/wiki/Dylann_Roof",
+        "title": "Dylann Roof",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "terrorism",
+            "murder",
+            "mass murder",
+            "arson",
+            "shooting"
+        ]
+    },
+    "93": {
+        "link": "/wiki/Stephen_Stanko",
+        "title": "Stephen Stanko",
+        "year": "2005",
+        "state": "South Carolina",
+        "county": "Georgetown County",
+        "type": [
+            "murder",
+            "kidnapping",
+            "assault",
+            "sexual assault"
+        ]
+    },
+    "94": {
+        "link": "/wiki/Bradley%27s_Covered_Bridge",
+        "title": "Bradley's Covered Bridge",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Greenwood County",
+        "type": [
+            "arson"
+        ]
+    },
+    "95": {
+        "link": "/wiki/Clementa_C._Pinckney",
+        "title": "Clementa C. Pinckney",
+        "year": "2015",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "terrorism",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "96": {
+        "link": "/wiki/Abraham_Surasky",
+        "title": "Abraham Surasky",
+        "year": "1903",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "97": {
+        "link": "/wiki/Jim_Williams_(militia_leader)",
+        "title": "Jim Williams (militia leader)",
+        "year": "1871",
+        "state": "South Carolina",
+        "county": "York County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "98": {
+        "link": "/wiki/Melvin_Purvis",
+        "title": "Melvin Purvis",
+        "year": "1960",
+        "state": "South Carolina",
+        "county": "Florence County",
+        "type": [
+            "murder",
+            "robbery",
+            "kidnapping"
+        ]
+    },
+    "99": {
+        "link": "/wiki/John_Plath_(murderer)",
+        "title": "Murder of Betty Gardner",
+        "year": "1978",
+        "state": "South Carolina",
+        "county": "Beaufort County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "100": {
+        "link": "/wiki/Danny_Clyburn",
+        "title": "Danny Clyburn",
+        "year": "2012",
+        "state": "South Carolina",
+        "county": "Lancaster County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "101": {
+        "link": "/wiki/Richard_Bernard_Moore",
+        "title": "Richard Bernard Moore",
+        "year": "1999",
+        "state": "South Carolina",
+        "county": "Spartanburg County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "assault"
+        ]
+    },
+    "102": {
+        "link": "/wiki/Monroe_Hickson",
+        "title": "Monroe Hickson",
+        "year": "1967",
+        "state": "South Carolina",
+        "county": "Orangeburg County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault"
+        ]
+    },
+    "103": {
+        "link": "/wiki/2021_Rock_Hill_shooting",
+        "title": "2021 Rock Hill shooting",
+        "year": "2021",
+        "state": "South Carolina",
+        "county": "York County",
+        "type": [
+            "murder",
+            "mass murder",
+            "shooting"
+        ]
+    },
+    "104": {
+        "link": "/wiki/David_Rocheville",
+        "title": "Murders of Alex Hopps and James Green",
+        "year": "1991",
+        "state": "South Carolina",
+        "county": "Spartanburg County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting",
+            "kidnapping"
+        ]
+    },
+    "105": {
+        "link": "/wiki/Hamburg_massacre",
+        "title": "Hamburg massacre",
+        "year": "1876",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "mass murder",
+            "assault",
+            "riot"
+        ]
+    },
+    "106": {
+        "link": "/wiki/Thomas_Jeremiah",
+        "title": "Thomas Jeremiah",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Aiken County",
+        "type": [
+            "murder",
+            "assault"
+        ]
+    },
+    "107": {
+        "link": "/wiki/Council_of_Conservative_Citizens",
+        "title": "Council of Conservative Citizens",
+        "year": "",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "108": {
+        "link": "/wiki/Removal_of_Confederate_monuments_and_memorials",
+        "title": "Removal of Confederate monuments and memorials",
+        "year": "1877",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "109": {
+        "link": "/wiki/Christopher_Pittman",
+        "title": "Christopher Pittman",
+        "year": "1989",
+        "state": "South Carolina",
+        "county": "Anderson County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "110": {
+        "link": "/wiki/Denmark_Vesey",
+        "title": "Denmark Vesey",
+        "year": "1822",
+        "state": "South Carolina",
+        "county": "Bamberg County",
+        "type": [
+            "murder"
+        ]
+    },
+    "111": {
+        "link": "/wiki/Ned_I.R._Jennings",
+        "title": "Ned I.R. Jennings",
+        "year": "1927",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "shooting"
+        ]
+    },
+    "112": {
+        "link": "/wiki/Joseph_Crews",
+        "title": "Joseph Crews",
+        "year": "1876",
+        "state": "South Carolina",
+        "county": "Laurens County",
+        "type": [
+            "murder",
+            "shooting"
+        ]
+    },
+    "113": {
+        "link": "/wiki/Lee_Correctional_Prison_Riot",
+        "title": "Lee Correctional Prison Riot",
+        "year": "2018",
+        "state": "South Carolina",
+        "county": "Lee County",
+        "type": [
+            "murder",
+            "robbery",
+            "assault",
+            "riot"
+        ]
+    },
+    "114": {
+        "link": "/wiki/Brittanee_Drexel",
+        "title": "Murder of Brittanee Drexel",
+        "year": "2009",
+        "state": "South Carolina",
+        "county": "Horry County",
+        "type": [
+            "murder",
+            "kidnapping"
+        ]
+    },
+    "115": {
+        "link": "/wiki/Lee_Roy_Martin",
+        "title": "Lee Roy Martin",
+        "year": "1972",
+        "state": "South Carolina",
+        "county": "Cherokee County",
+        "type": [
+            "murder",
+            "sexual assault"
+        ]
+    },
+    "116": {
+        "link": "/wiki/Michael_Torrence",
+        "title": "Michael Torrence",
+        "year": "1996",
+        "state": "South Carolina",
+        "county": "Richland County",
+        "type": [
+            "murder",
+            "robbery"
+        ]
+    },
+    "117": {
+        "link": "/wiki/Clyde_Ehrhardt",
+        "title": "Clyde Ehrhardt",
+        "year": "1962",
+        "state": "South Carolina",
+        "county": "Richland County",
+        "type": [
+            "murder"
+        ]
+    },
+    "118": {
+        "link": "/wiki/Lavinia_Fisher",
+        "title": "Lavinia Fisher",
+        "year": "1820",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder",
+            "terrorism",
+            "robbery",
+            "kidnapping"
+        ]
+    },
+    "119": {
+        "link": "/wiki/Patrick_Tracy_Burris",
+        "title": "Patrick Tracy Burris",
+        "year": "2009",
+        "state": "South Carolina",
+        "county": "Cherokee County",
+        "type": [
+            "murder",
+            "robbery",
+            "shooting"
+        ]
+    },
+    "120": {
+        "link": "/wiki/Dallen_Bounds",
+        "title": "Dallen Bounds",
+        "year": "1999",
+        "state": "South Carolina",
+        "county": "Pickens County",
+        "type": [
+            "murder"
+        ]
+    },
+    "121": {
+        "link": "/wiki/Baby_Boy_Horry",
+        "title": "Baby Boy Horry",
+        "year": "2008",
+        "state": "South Carolina",
+        "county": "Horry County",
+        "type": [
+            "murder"
+        ]
+    },
+    "122": {
+        "link": "/wiki/South_Carolina_civil_disturbances_of_1876",
+        "title": "South Carolina civil disturbances of 1876",
+        "year": "1876",
+        "state": "South Carolina",
+        "county": "Richland County",
+        "type": [
+            "murder",
+            "robbery",
+            "riot"
+        ]
+    },
+    "123": {
+        "link": "/wiki/Newberry_1919_lynching_attempt",
+        "title": "Newberry 1919 lynching attempt",
+        "year": "1919",
+        "state": "South Carolina",
+        "county": "Newberry County",
+        "type": [
+            "murder",
+            "terrorism",
+            "riot"
+        ]
+    },
+    "124": {
+        "link": "/wiki/2003_standoff_in_Abbeville,_South_Carolina",
+        "title": "2003 standoff in Abbeville, South Carolina",
+        "year": "2003",
+        "state": "South Carolina",
+        "county": "Abbeville County",
+        "type": [
+            "kidnapping",
+            "terrorism",
+            "shooting",
+            "murder",
+            "robbery"
+        ]
+    },
+    "125": {
+        "link": "/wiki/Lost_Cause_of_the_Confederacy",
+        "title": "Lost Cause of the Confederacy",
+        "year": "1863",
+        "state": "South Carolina",
+        "county": "Charleston County",
+        "type": [
+            "murder"
+        ]
+    }
+}

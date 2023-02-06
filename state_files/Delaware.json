@@ -1,99 +1,5 @@
 {
     "0": {
-        "link": "/wiki/Jeremy_McDole",
-        "title": "Killing of Jeremy McDole",
-        "year": "2015",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "assault",
-            "murder",
-            "shooting"
-        ]
-    },
-    "1": {
-        "link": "/wiki/Nelson_Shelton",
-        "title": "Murder of Wilson Mannon",
-        "year": "1995",
-        "state": "Delaware",
-        "county": "Kent County",
-        "type": [
-            "assault",
-            "murder"
-        ]
-    },
-    "2": {
-        "link": "/wiki/Billy_Bailey",
-        "title": "Billy Bailey",
-        "year": "1979",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "murder",
-            "shooting",
-            "robbery"
-        ]
-    },
-    "3": {
-        "link": "/wiki/John_P._Wheeler_III",
-        "title": "John P. Wheeler III",
-        "year": "2010",
-        "state": "Delaware",
-        "county": "",
-        "type": [
-            "murder",
-            "arson"
-        ]
-    },
-    "4": {
-        "link": "/wiki/Shannon_Johnson_(murderer)",
-        "title": "Shannon Johnson (murderer)",
-        "year": "2006",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "sexual assault",
-            "murder",
-            "shooting"
-        ]
-    },
-    "5": {
-        "link": "/wiki/Killing_of_Stephen_Ballard",
-        "title": "Killing of Stephen Ballard",
-        "year": "2017",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "murder",
-            "shooting"
-        ]
-    },
-    "6": {
-        "link": "/wiki/William_Devonshire",
-        "title": "William Devonshire",
-        "year": "2022",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "assault",
-            "murder",
-            "robbery"
-        ]
-    },
-    "7": {
-        "link": "/wiki/Lynching_of_George_White",
-        "title": "Lynching of George White",
-        "year": "1903",
-        "state": "Delaware",
-        "county": "New Castle County",
-        "type": [
-            "assault",
-            "murder",
-            "sexual assault",
-            "robbery"
-        ]
-    },
-    "8": {
         "link": "/wiki/Murder_of_Wilson_Mannon",
         "title": "Murder of Wilson Mannon",
         "year": "1995",
@@ -104,53 +10,7 @@
             "murder"
         ]
     },
-    "9": {
-        "link": "/wiki/Delaware_State_University_shooting",
-        "title": "Delaware State University shooting",
-        "year": "2007",
-        "state": "Delaware",
-        "county": "Kent County",
-        "type": [
-            "murder",
-            "shooting"
-        ]
-    },
-    "10": {
-        "link": "/wiki/Shalita_Middleton",
-        "title": "Delaware State University shooting",
-        "year": "2007",
-        "state": "Delaware",
-        "county": "Kent County",
-        "type": [
-            "murder",
-            "shooting"
-        ]
-    },
-    "11": {
-        "link": "/wiki/Cheney_Clow",
-        "title": "Cheney Clow",
-        "year": "",
-        "state": "Delaware",
-        "county": "Kent County",
-        "type": [
-            "terrorism",
-            "murder",
-            "robbery"
-        ]
-    },
-    "12": {
-        "link": "/wiki/Brian_Steckel",
-        "title": "Brian Steckel",
-        "year": "2005",
-        "state": "Delaware",
-        "county": "Kent County",
-        "type": [
-            "assault",
-            "murder",
-            "sexual assault"
-        ]
-    },
-    "13": {
+    "1": {
         "link": "/wiki/George_Floyd_protests_in_Delaware",
         "title": "George Floyd protests in Delaware",
         "year": "2020",
@@ -158,25 +18,95 @@
         "county": "Kent County",
         "type": [
             "riot",
-            "murder",
-            "robbery"
+            "robbery",
+            "murder"
         ]
     },
-    "14": {
+    "2": {
         "link": "/wiki/Wilmington,_Delaware_race_riot_of_1919",
         "title": "Wilmington, Delaware race riot of 1919",
         "year": "1919",
         "state": "Delaware",
         "county": "New Castle County",
         "type": [
-            "robbery",
-            "riot",
             "shooting",
+            "riot",
+            "robbery",
             "terrorism",
             "murder"
         ]
     },
-    "15": {
+    "3": {
+        "link": "/wiki/Thomas_Capano",
+        "title": "Thomas Capano",
+        "year": "2011",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "kidnapping",
+            "shooting",
+            "murder"
+        ]
+    },
+    "4": {
+        "link": "/wiki/Brian_Steckel",
+        "title": "Brian Steckel",
+        "year": "2005",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "sexual assault",
+            "assault",
+            "murder"
+        ]
+    },
+    "5": {
+        "link": "/wiki/John_P._Wheeler_III",
+        "title": "John P. Wheeler III",
+        "year": "2010",
+        "state": "Delaware",
+        "county": "",
+        "type": [
+            "arson",
+            "murder"
+        ]
+    },
+    "6": {
+        "link": "/wiki/Shalita_Middleton",
+        "title": "Delaware State University shooting",
+        "year": "2007",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "shooting",
+            "murder"
+        ]
+    },
+    "7": {
+        "link": "/wiki/Jeremy_McDole",
+        "title": "Killing of Jeremy McDole",
+        "year": "2015",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "type": [
+            "shooting",
+            "assault",
+            "murder"
+        ]
+    },
+    "8": {
+        "link": "/wiki/William_Devonshire",
+        "title": "William Devonshire",
+        "year": "2022",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "type": [
+            "robbery",
+            "assault",
+            "murder"
+        ]
+    },
+    "9": {
         "link": "/wiki/Wilmington_riot_of_1968",
         "title": "Wilmington riot of 1968",
         "year": "1968",
@@ -184,24 +114,48 @@
         "county": "New Castle County",
         "type": [
             "riot",
-            "murder",
             "robbery",
-            "arson"
+            "arson",
+            "murder"
         ]
     },
-    "16": {
-        "link": "/wiki/Steven_Brian_Pennell",
-        "title": "Steven Brian Pennell",
-        "year": "1992",
+    "10": {
+        "link": "/wiki/Killing_of_Stephen_Ballard",
+        "title": "Killing of Stephen Ballard",
+        "year": "2017",
         "state": "Delaware",
-        "county": "Kent County",
+        "county": "New Castle County",
         "type": [
-            "kidnapping",
+            "shooting",
+            "murder"
+        ]
+    },
+    "11": {
+        "link": "/wiki/Billy_Bailey",
+        "title": "Billy Bailey",
+        "year": "1979",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "type": [
+            "robbery",
+            "shooting",
+            "murder"
+        ]
+    },
+    "12": {
+        "link": "/wiki/Lynching_of_George_White",
+        "title": "Lynching of George White",
+        "year": "1903",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "type": [
+            "sexual assault",
+            "robbery",
             "assault",
             "murder"
         ]
     },
-    "17": {
+    "13": {
         "link": "/wiki/James_B._Clark_Jr.",
         "title": "James B. Clark Jr.",
         "year": "1996",
@@ -213,15 +167,61 @@
             "murder"
         ]
     },
-    "18": {
+    "14": {
+        "link": "/wiki/Cheney_Clow",
+        "title": "Cheney Clow",
+        "year": "",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "robbery",
+            "terrorism",
+            "murder"
+        ]
+    },
+    "15": {
         "link": "/wiki/James_Allen_Red_Dog",
         "title": "James Allen Red Dog",
         "year": "1993",
         "state": "Delaware",
         "county": "Kent County",
         "type": [
-            "murder",
-            "robbery"
+            "robbery",
+            "murder"
+        ]
+    },
+    "16": {
+        "link": "/wiki/Delaware_State_University_shooting",
+        "title": "Delaware State University shooting",
+        "year": "2007",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "shooting",
+            "murder"
+        ]
+    },
+    "17": {
+        "link": "/wiki/Nelson_Shelton",
+        "title": "Murder of Wilson Mannon",
+        "year": "1995",
+        "state": "Delaware",
+        "county": "Kent County",
+        "type": [
+            "assault",
+            "murder"
+        ]
+    },
+    "18": {
+        "link": "/wiki/Shannon_Johnson_(murderer)",
+        "title": "Shannon Johnson (murderer)",
+        "year": "2006",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "type": [
+            "sexual assault",
+            "shooting",
+            "murder"
         ]
     },
     "19": {
@@ -231,21 +231,21 @@
         "state": "Delaware",
         "county": "New Castle County",
         "type": [
+            "shooting",
             "assault",
-            "murder",
-            "shooting"
+            "murder"
         ]
     },
     "20": {
-        "link": "/wiki/Thomas_Capano",
-        "title": "Thomas Capano",
-        "year": "2011",
+        "link": "/wiki/Steven_Brian_Pennell",
+        "title": "Steven Brian Pennell",
+        "year": "1992",
         "state": "Delaware",
         "county": "Kent County",
         "type": [
             "kidnapping",
-            "murder",
-            "shooting"
+            "assault",
+            "murder"
         ]
     }
 }

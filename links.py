@@ -300,26 +300,23 @@ for myState in states_list :
         page = session.get(url)
         soup = BeautifulSoup(page.content, "html.parser")
         
-        # (TITLE, DATE, LOCATION, PARAGRAPHS)
+        # (TITLE, DATE, LOCATION, PARAGRAPHS, YEAR, STATE, COUNTY AND CRIME TYPE)
         title = soup.find("h1", class_="firstHeading").text
         date, location = get_table_info(soup)
         paragraph = get_paragraph(soup) 
         
-        # (YEAR EXTRACTION)
         year = extract_year(date+' '+title+' '+link)
         sem_crime = ""
         if year == "":
             year = extract_year_symentic_phrase(paragraph)[0]
             sem_crime = extract_year_symentic_phrase(paragraph)[1]        
 
-        #(COUNTY AND STATE EXTRACTION) 
         full_text = title + " " + location + " " + date + " " + paragraph
         the_state = get_state(full_text)
         place = get_place(full_text)
         if(the_state == ""): the_state=myState
         county = get_couty_from_geo(myState, place)
         
-        #(CRIME TYPE EXTRACTION)
         crime_types = get_crime_type(soup, title + paragraph) 
         if((not len(crime_types)) and sem_crime != "" ):
             crime_types.add(sem_crime)

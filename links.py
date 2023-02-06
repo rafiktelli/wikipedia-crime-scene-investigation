@@ -287,6 +287,7 @@ for myState in states_list :
         links = get_article_pages(url)
         all_links.extend(links)
 
+
     # --------------------------------  EXTRACT ARTICLE INFORMATION  --------------------
     print("THE END OF LINK EXTRACTION")
     all_links = list(set(all_links))

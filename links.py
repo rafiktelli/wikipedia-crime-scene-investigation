@@ -241,7 +241,7 @@ def crime_classifier(word):
 
 
 
-states_list = [ "Delaware", "Texas", "Virginia", "California"]
+states_list = [  "Texas", "California", "New York"]
 for myState in states_list :
     all_links = []
     start_time = time.time()
